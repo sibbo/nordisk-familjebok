@@ -3375,33 +3375,6 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Krymp-aln. Se Gjutning, sp. 1232.",
-        "entryid": "e2_v1_81_1",
-        "text": " <b>Krymp-aln.</b> Se Gjutning, sp.  1232.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Krümperhästar. Se Krümpersystem.",
-        "entryid": "e2_v1_81_2",
-        "text": " <b>Krümperhästar.</b>  Se Krümpersystem.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Krünen. Se Kronstadt 3.",
-        "entryid": "e2_v1_81_3",
-        "text": " <b>Krünen.</b> Se Kronstadt 3.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kryohydratisk temperatur",
         "entryid": "e2_v1_82_0",
         "text": "<b>Kryohydratisk temperatur.</b> Se Kryohydrat.",
@@ -5985,17 +5958,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "kugghjulsfil",
-        "entryid": "e2_v1_109_12",
-        "text": "kugghjulsfil, mek.   Se Fil, sp. 190.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kugghjulssmörja",
-        "entryid": "e2_v1_109_13",
+        "entryid": "e2_v1_109_12",
         "text": "Kugghjulssmörja.   Se Konsistensfett.",
         "type": 0,
         "qid": "0",
@@ -6004,7 +5968,7 @@
     },
     {
         "headword": "Kuggstång",
-        "entryid": "e2_v1_109_14",
+        "entryid": "e2_v1_109_13",
         "text": "<b>Kuggstång,</b> <i>mek.</i>, en rak stång, som är försedd med kuggar och ingriper i ett kugghjul (se d. o.), så att på detta sätt en rätlinig rörelse kan förvandlas till roterande eller omvändt.    ",
         "type": 0,
         "qid": "0",
@@ -6013,7 +5977,7 @@
     },
     {
         "headword": "Kuggstångsbana",
-        "entryid": "e2_v1_109_15",
+        "entryid": "e2_v1_109_14",
         "text": "<b>Kuggstångsbana,</b> <i>järnv.</i>, sådan järnväg, vid hvilken i anledning af banplanets stora lutning finnes en mellan skenorna lagd, i syllarna fäst kuggstång, i hvars kuggar ett på någon af lokom",
         "type": 0,
         "qid": "0",
@@ -7146,17 +7110,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "*Kult och konst",
-        "entryid": "e2_v1_129_4",
-        "text": "<b>*Kult och konst,</b> tidskrift, egnad åt kyrklig kultur, utgafs 1905-08 i Stockholm af kyrkoherden E. Norén med biträde af docenten J. Roosval och pastor H. Palm.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kultsjöforsen",
-        "entryid": "e2_v1_129_5",
+        "entryid": "e2_v1_129_4",
         "text": "<b>Kultsjöforsen.</b> Se Kultsjön.",
         "type": 0,
         "qid": "0",
@@ -7165,7 +7120,7 @@
     },
     {
         "headword": "Kultsjön",
-        "entryid": "e2_v1_129_6",
+        "entryid": "e2_v1_129_5",
         "text": "<b>Kultsjön,</b> långsträckt, af öfre Ångermanälfven genomfluten sjö i Västerbottens län, Vilhelmina socken. 53 kvkm. 540 m. ö. h. Nedanför utloppet bildar älfven ett 4,2 m. högt, lodrätt stup, Kultsj",
         "type": 0,
         "qid": "0",
@@ -7174,7 +7129,7 @@
     },
     {
         "headword": "Kulttempel",
-        "entryid": "e2_v1_129_7",
+        "entryid": "e2_v1_129_6",
         "text": "Kulttempel.   Se Agonaltempel.",
         "type": 0,
         "qid": "0",
@@ -7183,7 +7138,7 @@
     },
     {
         "headword": "Kultur",
-        "entryid": "e2_v1_129_8",
+        "entryid": "e2_v1_129_7",
         "text": "<b>Kultur</b> (lat. <i>cultura</i>, af <i>co'lere</i>, egna omvårdnad; odla), odling, uppodling, bearbetning, uppbrukning; sammanfattningen af de arbeten, med hvilka åsyftas att afvinna jorden kulturv",
         "type": 0,
         "qid": "0",
@@ -7192,7 +7147,7 @@
     },
     {
         "headword": "Kulturell",
-        "entryid": "e2_v1_129_9",
+        "entryid": "e2_v1_129_8",
         "text": "<b>Kulturell</b> (af kultur, se d. o.), som hör till eller afser att främja den mänskliga kulturen; bildnings-.",
         "type": 0,
         "qid": "0",
@@ -7201,7 +7156,7 @@
     },
     {
         "headword": "Kulturella ungdomsrörelsen",
-        "entryid": "e2_v1_129_10",
+        "entryid": "e2_v1_129_9",
         "text": "Kulturella ungdomsrörelsen, en i religiösa och politiska frågor fullständigt neutral, på initiativ af Folkbildningsförbundet 1905 igångsatt rörelse, har till uppgift att söka bereda ungdom i hufvudsta",
         "type": 0,
         "qid": "0",
@@ -12024,17 +11979,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Kvantitet",
-        "entryid": "e2_v1_196_0",
-        "text": "kvantitet är obestämd (lat. anceps) och hvilka därför efter omständigheterna nyttjas som långa eller som korta (^L). Med denna obestämda eller vacklande kvantitet hos vissa språkstafvelser som sådana ",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kvantitetsaccent",
-        "entryid": "e2_v1_196_1",
+        "entryid": "e2_v1_196_0",
         "text": "Kvantitetsaccent. Se A c c e n t, sp. 83.",
         "type": 0,
         "qid": "0",
@@ -12043,7 +11989,7 @@
     },
     {
         "headword": "Kvantitetsteorien",
-        "entryid": "e2_v1_196_2",
+        "entryid": "e2_v1_196_1",
         "text": "Kvantitetsteorien, nationalek., den teori till förklaring af penningens värde eller köpkraft och förändringarna däri, som håller före, att penningevärdet är beroende af den förefintliga kvantiteten (m",
         "type": 0,
         "qid": "0",
@@ -12052,7 +11998,7 @@
     },
     {
         "headword": "Kvantum",
-        "entryid": "e2_v1_196_3",
+        "entryid": "e2_v1_196_2",
         "text": "Kvantum (.lat. quantum), eg. \"så mycket som\"; en viss myckenhet, mängd, kvantitet. Jfr Q u a n-tu m.",
         "type": 0,
         "qid": "0",
@@ -12061,7 +12007,7 @@
     },
     {
         "headword": "Kwan-tung (Kwang-tung, Kuan-tung)",
-        "entryid": "e2_v1_196_4",
+        "entryid": "e2_v1_196_3",
         "text": "Kwan-tung (Kwang-tung, Kuan-tung), sydligaste delen af Liau-tunghalfön i Gula hafvet. Efter K. benämndes det område, som Ryssland genom fördraget med Kina 15 (27) mars 1898 arrenderade på 25 år och so",
         "type": 0,
         "qid": "0",
@@ -12070,7 +12016,7 @@
     },
     {
         "headword": "Kwanza",
-        "entryid": "e2_v1_196_5",
+        "entryid": "e2_v1_196_4",
         "text": "Kwanza, flod.   Se C u a n z a.",
         "type": 0,
         "qid": "0",
@@ -12861,26 +12807,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "kvcm.",
-        "entryid": "e2_v1_213_8",
-        "text": "kvcm., officiell svensk förkortning för kvadratcentimeter. Jfr cm.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kvdm.",
-        "entryid": "e2_v1_213_9",
-        "text": "kvdm., officiell svensk förkortning för kvadratdecimeter. Jfr d m.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kvebrachit",
-        "entryid": "e2_v1_213_10",
+        "entryid": "e2_v1_213_8",
         "text": "Kvebrachit, kem.  Se I n o s i t.",
         "type": 0,
         "qid": "0",
@@ -12889,7 +12817,7 @@
     },
     {
         "headword": "Kved",
-        "entryid": "e2_v1_213_11",
+        "entryid": "e2_v1_213_9",
         "text": "Kved, numera föråldrad t svenskt ord med betydelsen moderlif.",
         "type": 0,
         "qid": "0",
@@ -12898,7 +12826,7 @@
     },
     {
         "headword": "Kveflax",
-        "entryid": "e2_v1_213_12",
+        "entryid": "e2_v1_213_10",
         "text": "Kveflax (fi. Köifvulahti), kustsocken vid mynningen af Kyro älf i Vasa län, Finland, utgör ett im-pcriellt pastorat af 2:a kl., Vasa nedre kontrakt, Åbo ärkestift, samt hör under Korsholms domsaga och",
         "type": 0,
         "qid": "0",
@@ -12907,7 +12835,7 @@
     },
     {
         "headword": "Kwei-hua-scheng",
-        "entryid": "e2_v1_213_13",
+        "entryid": "e2_v1_213_11",
         "text": "<b>Kwei-hua-scheng,</b> missionsstation tillhörande skandinaviska alliansmissionen, i kinesiska prov. Schan-si.",
         "type": 0,
         "qid": "0",
@@ -12916,7 +12844,7 @@
     },
     {
         "headword": "Kwei-hwa-tschöng",
-        "entryid": "e2_v1_213_14",
+        "entryid": "e2_v1_213_12",
         "text": "<b>Kwei-hwa-tschöng</b> (mong. <i>Kukuchoto</i>, \"blå staden\"), stad i kinesiska prov. Schan-si, vid en biflod till Hwang-ho under 40° 48' n. br., 112° ö. lgd, 1,080 m. ö. h. Omkr. 200,000 inv. (enl. ",
         "type": 0,
         "qid": "0",
@@ -12925,7 +12853,7 @@
     },
     {
         "headword": "Kwei-jang",
-        "entryid": "e2_v1_213_15",
+        "entryid": "e2_v1_213_13",
         "text": "<b>Kwei-jang,</b> hufvudstad i kinesiska prov. Kwei-tschou (se d. o.).",
         "type": 0,
         "qid": "0",
@@ -12934,7 +12862,7 @@
     },
     {
         "headword": "Kwéi-lin",
-        "entryid": "e2_v1_213_16",
+        "entryid": "e2_v1_213_14",
         "text": "<b>Kwéi-lin,</b> stad.  Se Kwang-si.",
         "type": 0,
         "qid": "0",
@@ -12943,7 +12871,7 @@
     },
     {
         "headword": "Kveite",
-        "entryid": "e2_v1_213_17",
+        "entryid": "e2_v1_213_15",
         "text": "<b>Kveite,</b> Kvejte, norrmännens namn på helgeflundran (se d. o.).",
         "type": 0,
         "qid": "0",
@@ -12952,7 +12880,7 @@
     },
     {
         "headword": "Kwei-tschou",
-        "entryid": "e2_v1_213_18",
+        "entryid": "e2_v1_213_16",
         "text": "<b>Kwei-tschou</b> (Kuei-tsjeu), provins i det inre af södra Kina, mellan prov. Hunan i ö., Kwang-si i s., Junnan i v. och Sz'-tschwan i n. 157,200 kvkm. 7,65 mill. inv. Marken består hufvudsakligen a",
         "type": 0,
         "qid": "0",
@@ -12961,7 +12889,7 @@
     },
     {
         "headword": "Kwen-lun",
-        "entryid": "e2_v1_213_19",
+        "entryid": "e2_v1_213_17",
         "text": "<b>Kwen-lun</b> (Kuen-lun, Kyen-lyn) är det allmänt brukliga namnet på den bergskedja, som i östlig hufvudriktning utgår från Pamirplatån (76° ö. lgd), sträcker sig genom hela Central-Asien och har si",
         "type": 0,
         "qid": "0",
@@ -14166,35 +14094,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "kvkm",
-        "entryid": "e2_v1_230_1",
-        "text": "<b>kvkm</b>., officiell svensk förkortning för kvadratkilometer. Jfr km.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kvm",
-        "entryid": "e2_v1_230_2",
-        "text": "<b>kvm</b>., officiell svensk förkortning för kvadratmeter.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kvmm",
-        "entryid": "e2_v1_230_3",
-        "text": "<b>kvmm</b>., officiell svensk förkortning för kvadratmillimeter. Jfr mm.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "K. V. O",
-        "entryid": "e2_v1_230_4",
+        "entryid": "e2_v1_230_1",
         "text": "<b>K. V. O.</b>, förkortning för kommendör af Vasaorden.",
         "type": 0,
         "qid": "0",
@@ -14203,7 +14104,7 @@
     },
     {
         "headword": "Kvobar",
-        "entryid": "e2_v1_230_5",
+        "entryid": "e2_v1_230_2",
         "text": "<b>Kvobar</b> .(Qvobar), <i>meteor</i>., i Abessinien namn på en där förekommande torr dimma eller solrök. Den har vanligen formen af horisontala band, tilltager mot ekvatorn och är intensivast öfver ",
         "type": 0,
         "qid": "0",
@@ -14212,7 +14113,7 @@
     },
     {
         "headword": "Kvodlibet",
-        "entryid": "e2_v1_230_6",
+        "entryid": "e2_v1_230_3",
         "text": "<b>Kvodlibet</b> (lat. <i>quodlibet</i>, \"hvilket som behagas\", första bästa; \"litet af hvarje\"), musikaliskt kvodlibet, skämtsam sammanställning af olika, bekanta melodier, naturljud o. s. v. Jfr Pot",
         "type": 0,
         "qid": "0",
@@ -14221,7 +14122,7 @@
     },
     {
         "headword": "Kworra",
-        "entryid": "e2_v1_230_7",
+        "entryid": "e2_v1_230_4",
         "text": "<b>Kworra</b>, flod.   Se Niger.",
         "type": 0,
         "qid": "0",
@@ -14230,7 +14131,7 @@
     },
     {
         "headword": "Kvot",
-        "entryid": "e2_v1_230_8",
+        "entryid": "e2_v1_230_5",
         "text": "<b>Kvot</b> (af lat. <i>quot</i>, huru mycket?), mat., det tal, som erhålles genom utförande af en division (se d. o.). Stundom förstår man med kvot endast det hela tal, som erhålles vid divisionen; d",
         "type": 0,
         "qid": "0",
@@ -14239,7 +14140,7 @@
     },
     {
         "headword": "Kvotient",
-        "entryid": "e2_v1_230_9",
+        "entryid": "e2_v1_230_6",
         "text": "<b>Kvotient</b>, mat.) det tal, som uttrycker förhållandet mellan två storheter af samma slag. Kvotient är således liktydigt med ration eller rationsexponent (se art. Förhållande), så att, om de båda ",
         "type": 0,
         "qid": "0",
@@ -14248,7 +14149,7 @@
     },
     {
         "headword": "Kvotitetsskatt",
-        "entryid": "e2_v1_230_10",
+        "entryid": "e2_v1_230_7",
         "text": "<b>Kvotitetsskatt</b> (se Kvot) kallas en skatt, vid hvars påläggande bestämmes visst mått, hvarefter skatt skall erläggas för de särskilda beskattningsföremålen. Huru mycket en kvotitetsskatt inalles",
         "type": 0,
         "qid": "0",
@@ -14256,44 +14157,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "kvref",
-        "entryid": "e2_v1_230_11",
-        "text": "<b>kvref</b>, förkortning för kvadratref.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kvstång",
-        "entryid": "e2_v1_230_12",
-        "text": "<b>kvstång</b>, förkortning för kvadratstång.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kwt",
-        "entryid": "e2_v1_230_13",
-        "text": "<b>kwt</b>, förkortning för kilowatt-timme. Se Arbete, sp. 1344, och Arbetsförmåga.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "kvtum",
-        "entryid": "e2_v1_230_14",
-        "text": "<b>kvtum</b>, förkortning för kvadrattum.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kväfgas",
-        "entryid": "e2_v1_230_15",
+        "entryid": "e2_v1_230_8",
         "text": "<b>Kväfgas</b>, <i>kem</i>., kväfve i fritt tillstånd. Se vidare Kväfve.",
         "type": 0,
         "qid": "0",
@@ -14302,7 +14167,7 @@
     },
     {
         "headword": "Kväfning",
-        "entryid": "e2_v1_230_16",
+        "entryid": "e2_v1_230_9",
         "text": "<b>Kväfning</b>, <i>fysiol</i>., upphörande af gasutbytet mellan en organism och det omgifvande mediet. I fråga om de högre djuren blir detta liktydigt med upphörandet af gasutbytet i lungorna. Kväfni",
         "type": 0,
         "qid": "0",
@@ -14311,7 +14176,7 @@
     },
     {
         "headword": "Kväfoxid",
-        "entryid": "e2_v1_230_17",
+        "entryid": "e2_v1_230_10",
         "text": "<b>Kväfoxid</b>, kem., en färglös gas af sammansättningen NO, som bildas vid många metallers, särskildt kopparns, upplösning i salpetersyra. Kväfoxid är något löslig i vatten och kan under -94° förtät",
         "type": 0,
         "qid": "0",
@@ -15615,15 +15480,6 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Ord, som saknas under K, torde sökas under C",
-        "entryid": "e2_v1_249_5",
-        "text": "<b>Ord, som saknas under K, torde sökas under C.</b>",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kyrkans dagar",
         "entryid": "e2_v1_251_0",
         "text": "<b>Kyrkans dagar.</b>  Se Kyrkoår.",
@@ -15798,15 +15654,6 @@
         "headword": "Kyrkmålningar",
         "entryid": "e2_v1_253_4",
         "text": "<b>Kyrkmålningar.</b> Det kyrkliga väggmåleriet leder sitt ursprung ur antiken. Också är de första tre århundradenas gammalkristna konst, i stort scdt, att betrakta som en afläggare af den grekisk-rom",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Till art. Kyrkmålningar",
-        "entryid": "e2_v1_255_0",
-        "text": "<b>Till art. Kyrkmålningar.</b>",
         "type": 0,
         "qid": "0",
         "first_edition_key": "",
@@ -16164,17 +16011,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Kyrkoköpinge",
-        "entryid": "e2_v1_269_12",
-        "text": "<i>Kyrkoköpinge,</i> socken i Malmöhus län, Skytts härad. 540 har. 233 inv. (1909). Annex till Gylle, Lunds stift, Skytts kontrakt.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Kyrkolag",
-        "entryid": "e2_v1_269_13",
+        "entryid": "e2_v1_269_12",
         "text": "<b>Kyrkolag,</b> den särskilda, af statens lagstiftande",
         "type": 0,
         "qid": "0",
@@ -16599,15 +16437,6 @@
         "headword": "Kyrkstugor",
         "entryid": "e2_v1_281_8",
         "text": "<b>Kyrkstugor</b>, i omedelbar närhet till någon  landskyrka byggda och af mera långväga färdandes  sockenbor egda stugor att taga in uti före och efter  gudstjänsten. De förekomma ännu i hela Norrlan",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Ord, som saknas under K, torde sökas under C",
-        "entryid": "e2_v1_281_9",
-        "text": "<b>Ord, som saknas under K, torde sökas under C.</b>",
         "type": 0,
         "qid": "0",
         "first_edition_key": "",
@@ -20493,51 +20322,6 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Till art. Köpenhamn. I",
-        "entryid": "e2_v1_355_0",
-        "text": "<b>Till art. Köpenhamn. I.</b>",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Till art. Köpenhamn. II",
-        "entryid": "e2_v1_356_0",
-        "text": "<b>Till art. Köpenhamn. II.</b>",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Till art. Köpenhamn. III",
-        "entryid": "e2_v1_357_0",
-        "text": "<b>Till art. Köpenhamn. III.</b>",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Till art. Köpenhamn. IV",
-        "entryid": "e2_v1_358_0",
-        "text": "<b>Till art. Köpenhamn. IV.</b>",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Köpenhamn",
-        "entryid": "e2_v1_361_0",
-        "text": "<i>Köpenhamns fasta försvar</i>. Sedan det redan i början af 1600-talet påbörjade ombyggandet af K:s gamla enceinte med Frederikshavns  citadell i n. och Kristianshavns befästning på Amager ändtligen ",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Köpenhamns amt",
         "entryid": "e2_v1_363_0",
         "text": "<b>Köpenhamns amt</b> omfattar mellersta delen af östra Själland jämte Amager med Saltholm, men namnet användes i två betydelser, nämligen dels om det",
@@ -21141,17 +20925,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Körsbärsvin",
-        "entryid": "e2_v1_377_6",
-        "text": "Rörsbärsvin.   Se B är vin.",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Körsel",
-        "entryid": "e2_v1_377_7",
+        "entryid": "e2_v1_377_6",
         "text": "Körsel, kam., en gammal skatt. Se B y g g-ningshjälpen.",
         "type": 0,
         "qid": "0",
@@ -21160,7 +20935,7 @@
     },
     {
         "headword": "Körskola",
-        "entryid": "e2_v1_377_8",
+        "entryid": "e2_v1_377_7",
         "text": "Körskola, skola för utbildning i körkonstcn (se d. o.). Länge erhöllo körsvennerna endast vid hof-stallén och på de större landtegendomarna en något så när rationell utbildning. I Sverige torde den fö",
         "type": 0,
         "qid": "0",
@@ -21169,7 +20944,7 @@
     },
     {
         "headword": "Körsnär",
-        "entryid": "e2_v1_377_9",
+        "entryid": "e2_v1_377_8",
         "text": "Körsnär [tjö;- och -när], ty. kiirschner (af mhty. kursen, fnhty. kursina., pälsrock), buntmakare (sed. o.).",
         "type": 0,
         "qid": "0",
@@ -21178,7 +20953,7 @@
     },
     {
         "headword": "Körstång",
-        "entryid": "e2_v1_377_10",
+        "entryid": "e2_v1_377_9",
         "text": "Körstång.   Se Betsel.",
         "type": 0,
         "qid": "0",
@@ -21187,7 +20962,7 @@
     },
     {
         "headword": "Körställ",
-        "entryid": "e2_v1_377_11",
+        "entryid": "e2_v1_377_10",
         "text": "Körställ, elektrot., den apparat, med hvilken t. ex. en elektrisk spårvagn manövreras. Det utgöres af en låda, innehållande en mängd kopplings-delar, hvilka medelst en eller flera handtag bringas i ol",
         "type": 0,
         "qid": "0",
@@ -21196,7 +20971,7 @@
     },
     {
         "headword": "Körsång",
-        "entryid": "e2_v1_377_12",
+        "entryid": "e2_v1_377_11",
         "text": "Körsång [kor-].  Se Kör.",
         "type": 0,
         "qid": "0",
@@ -21717,17 +21492,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "l. a",
-        "entryid": "e2_v1_387_0",
-        "text": "<b>l. a.</b> (på recept), förkortning för lat. <i>le′ge a′rtis</i>, enligt (den farmaceutiska) konstens föreskrift:",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "La",
-        "entryid": "e2_v1_387_1",
+        "entryid": "e2_v1_387_0",
         "text": "<b>La,</b> <i>kem.</i>, tecken för 1 atom lantan.",
         "type": 0,
         "qid": "0",
@@ -21736,7 +21502,7 @@
     },
     {
         "headword": "La",
-        "entryid": "e2_v1_387_2",
+        "entryid": "e2_v1_387_1",
         "text": "<b>La,</b> förkortning för lat. <i>littera</i>, bokstaf, och för it. <i>lettera</i>, bref, växel.",
         "type": 0,
         "qid": "0",
@@ -21745,7 +21511,7 @@
     },
     {
         "headword": "La.",
-        "entryid": "e2_v1_387_3",
+        "entryid": "e2_v1_387_2",
         "text": "<b>La.,</b> förkortning för nordamerikanska staten Louisiana.",
         "type": 0,
         "qid": "0",
@@ -21754,7 +21520,7 @@
     },
     {
         "headword": "La",
-        "entryid": "e2_v1_387_4",
+        "entryid": "e2_v1_387_3",
         "text": "<b>La,</b> <i>mus.</i>, i de romanska länderna benämning på tonen <i>a</i>. Jfr Solmisation. A. L.*",
         "type": 0,
         "qid": "0",
@@ -21763,7 +21529,7 @@
     },
     {
         "headword": "Laa an der Thaya",
-        "entryid": "e2_v1_387_5",
+        "entryid": "e2_v1_387_4",
         "text": "<b>Laa an der Thaya</b> [la], stad i Nedre Österrike, vid floden Thaya, nära gränsen mot Mähren. 4,019 inv. (1900). Vid L. besegrades bömarna af österrikare 1240 och 1332. Staden intogs 1645 af Torste",
         "type": 0,
         "qid": "0",
@@ -21772,7 +21538,7 @@
     },
     {
         "headword": "Laach",
-        "entryid": "e2_v1_387_6",
+        "entryid": "e2_v1_387_5",
         "text": "<b>Laach</b> [lāch], Laachersee [lācher se], kratersjö i Eifel, preussiska reg.-omr. Koblenz, n. v. om Koblenz, 3,31 kvkm., 2,7 km. lång, 2,4 km. bred, 53 m. djup, 275 m. ö. h. Sjön, som har ett lju",
         "type": 0,
         "qid": "0",
@@ -23925,15 +23691,6 @@
         "headword": "Lafvar",
         "entryid": "e2_v1_431_4",
         "text": "Lafvar, Lichenes (sing. Lichen), bot., en växtgrupp af dubbelorganismer, bestående af svampar, som lefva i symbios med alger. Innan lafvarnas verkliga natur blef känd genom Schwendeners (1869) och and",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Till art. Lafvar",
-        "entryid": "e2_v1_432_0",
-        "text": "<b>Till art. Lafvar.</b> (Efter R. v. Wettsteins \"Handb. d. system, botanik\".)",
         "type": 0,
         "qid": "0",
         "first_edition_key": "",
@@ -27576,17 +27333,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Lampong. 1. Nederländskt residentskap",
-        "entryid": "e2_v1_518_4",
-        "text": "tampong. 1. Nederländskt residentskap, omfattande sydöstra delen af Sumatra. 29,366 kvkm. 156,518 inv. (1905), 146 européer, östra delen är ett skogrikt och fruktbart alluvialland, de västra och södra",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Lamprecht, Karl",
-        "entryid": "e2_v1_518_5",
+        "entryid": "e2_v1_518_4",
         "text": "Lamprecht, kallad Der p f a f f e, tysk skald från trakten kring Köln, hvilken omkr. 1130 skref en dikt om Alexander den store (utg. 1837 af Massman n efter en senare, 1849 af Diemer efter en äldre ha",
         "type": 0,
         "qid": "0",
@@ -27595,7 +27343,7 @@
     },
     {
         "headword": "Lamprecht, Karl",
-        "entryid": "e2_v1_518_6",
+        "entryid": "e2_v1_518_5",
         "text": "<b>Lamprecht, Karl</b>, tysk häfdatecknare, f. 25 febr. 1856 i Jessen (nära Wittenberg), blef 1881 filos, doktor i Bonn samt professor i historia 1890 i Marburg och 1891 i Leipzig. Därjämte leder han ",
         "type": 0,
         "qid": "0",
@@ -29250,24 +28998,6 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "a",
-        "entryid": "e2_v1_552_1",
-        "text": "<b>a.</b> <i>a</i>, \"öppet\" <i>a</i> som i sv. <i>hatt</i>; [a3] samma vokal nasalerad (näsvägen öppen); [<&], europ. (ty., it.) samt norrländskt och norskt a, en vokal mellan vokalerna i sv. <i>hat</",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "b",
-        "entryid": "e2_v1_552_2",
-        "text": "<b>b.</b> <i>b</i>, vanligt svenskt <i>b</i>; [5], ett b-ljud utan sångton: [6], ett <i>v</i>-ljud, uttaladt med läpparna mot hvarandra (sp. <i>b</i>).",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Landsmålsalfabet",
         "entryid": "e2_v1_554_0",
         "text": "Landsmålsalfabetet är strängt ljudtrogct: hvarje språkljud har ett tecken, hvarje tecken blott cll värde. \"Stora\" bokstäfver brukas icke. Till skillnad från annan skrift tryckes det alltid med kursiv-",
@@ -29961,17 +29691,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Landtmannaseglation",
-        "entryid": "e2_v1_587_0",
-        "text": " <b>Landtmannaseglation</b>, de svenska kustbornas  inrikes sjöfart. Denna var länge förbjuden, men  frigafs genom 1832 års författning om landtmannaseglation,  och kustborna fingo äfven rätt att segl",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Landtmannaskolor",
-        "entryid": "e2_v1_587_1",
+        "entryid": "e2_v1_587_0",
         "text": "Landtmannaskolor.  Se Landtbruksundervisning, sp. 1095.",
         "type": 0,
         "qid": "0",
@@ -29980,7 +29701,7 @@
     },
     {
         "headword": "Landtmannavecka",
-        "entryid": "e2_v1_587_2",
+        "entryid": "e2_v1_587_1",
         "text": "Landtmannavecka.  Se Landtbruksundervisning, sp. 1095.",
         "type": 0,
         "qid": "0",
@@ -29989,7 +29710,7 @@
     },
     {
         "headword": "Landtmanson",
-        "entryid": "e2_v1_587_3",
+        "entryid": "e2_v1_587_2",
         "text": "<b>Landtmanson</b>, Isak Sven, rättslärd,  universitetslärare, f. 30 april 1829 i Mariestad, d. 3 april  1901, blef 1847 student i Uppsala, där han 1854  promoverades till filos. doktor, 1861 aflade j",
         "type": 0,
         "qid": "0",
@@ -29998,7 +29719,7 @@
     },
     {
         "headword": "Landtmarskalk",
-        "entryid": "e2_v1_587_4",
+        "entryid": "e2_v1_587_3",
         "text": "<b>Landtmarskalk</b>, benämning på ridderskapets och adelns ordförande i Sverige under ståndsriksdagarnas tid och i Finland till utfärdandet af 1906 års landtdagsordning. Som ledare för ridderskapet o",
         "type": 0,
         "qid": "0",
@@ -30007,7 +29728,7 @@
     },
     {
         "headword": "Landtmätare",
-        "entryid": "e2_v1_587_5",
+        "entryid": "e2_v1_587_4",
         "text": "<b>Landtmätare</b>.  Se Landtmäteri.",
         "type": 0,
         "qid": "0",
@@ -30016,7 +29737,7 @@
     },
     {
         "headword": "Landtmätarföreningen",
-        "entryid": "e2_v1_587_6",
+        "entryid": "e2_v1_587_5",
         "text": "<b>Landtmätarföreningen</b>, sammanslutning af Finlands landtmätare och andra intresserade personer för fackutbildning, bildades vid allmänt",
         "type": 0,
         "qid": "0",
@@ -34389,17 +34110,8 @@
         "fourth_edition_key": ""
     },
     {
-        "headword": "Lassen, Vilhelm Theodor Alexander",
-        "entryid": "e2_v1_682_0",
-        "text": "* Lassen, Vilhelm Theodor Alexander, norsk genealog, f. 2 okt. 1815 i Grans socken, Hadeland, d. 16 febr. 1907 i Kristiania, tog juridisk ämbetsexamen 1837 och tjänstgjorde 1856-81 som byråchef i Mari",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
         "headword": "Lansen, Eduard",
-        "entryid": "e2_v1_682_1",
+        "entryid": "e2_v1_682_0",
         "text": "Lassen, Eduard, tysk tonsättare af dansk-judisk härkomst, f. 1830 i Köpenhamn, d. 1904 i Weimar, uppfostrades i Bruxelles, studerade vid konservatoriet där och fick 1851 regeringens stora pris, hvaref",
         "type": 0,
         "qid": "0",
@@ -34408,7 +34120,7 @@
     },
     {
         "headword": "Lassen, Julius",
-        "entryid": "e2_v1_682_2",
+        "entryid": "e2_v1_682_1",
         "text": "Lassen, Julius, dansk rättslärd, f. 4 juli 1847, blef 1871 juris kandidat och 1879 juris doktor på afh. Betingelserne for forsögets strafbarhed. Under det han tidigare tjänstgjort i justitieministerie",
         "type": 0,
         "qid": "0",
@@ -34417,7 +34129,7 @@
     },
     {
         "headword": "Lassen, Niels",
-        "entryid": "e2_v1_682_3",
+        "entryid": "e2_v1_682_2",
         "text": "Lansen, Niels, dansk rättslärd, f. 2 jan. 1848, blef 1872 juris kandidat och tog 1875 juris doktorsgraden med afh. om V Hj en som forpligtelsegritnd. 1879 blef han assessor i Köpenhamns brottmålsdomst",
         "type": 0,
         "qid": "0",
@@ -34426,7 +34138,7 @@
     },
     {
         "headword": "Lassen",
-        "entryid": "e2_v1_682_4",
+        "entryid": "e2_v1_682_3",
         "text": "<b>Lassen</b>, Vilhelm Herman, dansk publicist, politiker, f. 10 juni 1861, d. 6 apr. 1908, slöt sig tidigt till den radikala riktningen och var 1882 med om att stifta Studentersamfundet. Kort efter a",
         "type": 0,
         "qid": "0",
@@ -36858,15 +36570,6 @@
         "headword": "Lavett. Se Lavettage",
         "entryid": "e2_v1_748_0",
         "text": "Lave'tt. Se Lavettage. Lavettage [-täj; fr. affidage, af affut, som genom tillsats af best. art., V, gett ty. laffette, sv. lavet-tage och lavett], artill., det af trä (fr. f Ht, af lat. fustis), järn",
-        "type": 0,
-        "qid": "0",
-        "first_edition_key": "",
-        "fourth_edition_key": ""
-    },
-    {
-        "headword": "Lavettage",
-        "entryid": "e2_v1_751_0",
-        "text": "lavettage med s. k. minimalembrasyr användas numera oftast till pansartorn för gröfre fästningspjäser samt användes på 1890-talet äfven till pjäser i fasta pansarkasematter. I detta senare fall måste ",
         "type": 0,
         "qid": "0",
         "first_edition_key": "",
