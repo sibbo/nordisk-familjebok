@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+vectors_e1.npy
+vectors_e2.npy
 
 # C extensions
 *.so
