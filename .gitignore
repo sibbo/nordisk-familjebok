@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 vectors_e1.npy
 vectors_e2.npy
+.DS_Store
+qdrant_storage
 
 # C extensions
 *.so
