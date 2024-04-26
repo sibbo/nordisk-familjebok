@@ -7,7 +7,7 @@
     {
         "e1_text": "<b>Anthrenidæ,</b> <i>zool.</i> Se Gräfbi.",
         "e2_text": "<b>Ascalabotes,</b> <i>zool.</i> Se Geckonidæ.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Majestas,</b> Lat., betecknar personlig höghet eller värdighet, t. ex. gudarnas eller en konungs, jämväl statens eller folkets höghet, majestät (se d. o.). Att förgripa sig på detta var hos romarna",
@@ -17,7 +17,7 @@
     {
         "e1_text": "<b>Altarist</b> l. Altarista (af <i>altare</i>), katolsk messprest, hvilken särskildt inöfvats i sång och messa och såsom vikarie för plebanen eller presbytern besörjde messorna.         G. O. L.",
         "e2_text": "<b>Homiliarium</b> (se Homilia), samling af ur kyrkofädernas skrifter utdragna homilier, hvilka dels skulle tjäna prästerna vid korbönerna, dels församlingarna; då prästerna under medeltiden till följ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Bogotà.</b> 1. Hufvudstad i den syd-amerikanske förbundsstaten Columbia, med helsosamt läge på en högslätt vid floden Bogotá. Omkr. 50,000 innev. (1870). Staden, som anlades 1538 af Quedasa, räknas",
@@ -32,12 +32,12 @@
     {
         "e1_text": "<b>Konvenabel.</b> Se Konvenera.",
         "e2_text": "<b>Choreutik</b>.   Se Koreutik.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "Annboken uppträder redan med den eocena perioden och var i synnerhet allmän inom den miocena, under hvilken slägtet lefde äfven på Grönland och Spetsbergen. A. G. N.",
         "e2_text": "<b>Tegetthoffexpeditionen.</b> Se Polarexpeditioner, sp. 1164.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Vital,</b> vital- (Lat. <i>vitalis,</i> af <i>vita,</i> lif), lifs-, som hör till eller kännetecknar lifvet; som tjenar till lifvets bevarande; som är orsak till lifvet; maktpåliggande, i främsta r",
@@ -52,12 +52,12 @@
     {
         "e1_text": "<b>Alfonsia</b> oleifera Humb., <i>bot.</i>, palmart, af hvars frön pressas en tjock, smörlik olja. En annan art, <i>A. amygdalina</i>, är bekant för sina blommors talrikhet. Enligt Humboldts beräknin",
         "e2_text": "<b>Hippeastrum</b> Herb., <i>bot.</i>, växtsläkte af fam. <i>Amaryllidaceæ</i> med öfver 50 arter i tropiska ock subtropiska Amerika. För de stora, praktfulla blommornas skull odlas många arter, varie",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Kolit,</b> <i>med.,</i> inflammation i <i>colon</i> l. groftarmen. Se Rödsot och Tarmkatarr.",
         "e2_text": "<b>Tyflit</b>, Typhlitis. Se Blindtarmsinflammation.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Osteomalaci</b> (af Grek. <i>osteon,</i> ben, och <i>malakos,</i> mjuk), <i>med.,</i> benskörhet, uppmjukning af skelettet genom kalksalternas försvinnande, så att hufvudsakligen endast brosk, fibr",
@@ -77,32 +77,32 @@
     {
         "e1_text": "<b>Klumpfot</b> är en vanligtvis medfödd åkomma, bestående deri att den ena foten eller båda äro vridna inåt, hvarvid dessutom vanligen hälen är lyft i höjden. Många olika grader af klumpfot förekomma",
         "e2_text": "Piattfot, med. Som af namnet framgår, ansågs tidigare orsaken tiU de s. k. plattfotsbesvären vara att söka i ett mer eller mindre fullständigt upp-häfvande af den hvalfkonstruktion en normal fot oftas",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Stele,</b> plur. steler (Grek. <i>stele,</i> af <i>stenai,</i> stå), <i>byygnadsk.,</i> fristående pelare, särskildt grafpelare. - Stelografi, pelareinskrift.",
         "e2_text": "Räffla. 1. Bygnk. Rännformig, vertikal fåra i en pelare (kolonn, pilaster). Se Kannelerad. .-",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Föresvall</b> l. Föresvallarna. Se Fyrisvall.",
         "e2_text": "<b>Häcklefjäll.</b> Se Häklefjäll.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Stockholms slott.</b> På den plats, der detta slott nu är beläget, på nordöstra delen af stadsholmen mellan Saltsjön och Mälaren, uppfördes redan af Birger jarl en med murar och torn befäst borg ti",
         "e2_text": "<b>Ulriksdal,</b> kungsgård och kungligt lustslott i Solna socken, Stockholms län, vid stranden af den vackra Edsviken, omkr. 6 km. från Stockholm. Slottet byggdes 1642-44 (efter ritning af H. J. Kris",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Féval,</b> Paul Henri Corentin, fransk romanförfattare, född i Rennes d. 27 Sept. 1817, studerade juridik, blef advokat - och förlorade sin första rättegång. Han tog då (1838) anställning hos en ba",
         "e2_text": "<b>Brissot</b> [brisså], Jean Pierre, fransk jurist och revolutionsman, f. 1754 i Chartres, var först advokat, men öfvergaf snart detta yrke, bosatte sig i Paris och egnade sig åt litterär verksamhet.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Investigera</b> (Lat. <i>investigare</i>), uppspåra, utforska. - Investigation, efterforskning, efterspaning, noggrann undersökning.",
         "e2_text": "<b>Rekognoscera,</b> utforska, undersöka, spana. Se vidare Rekognoscering.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Krik,</b> sjömäns benämning på en mindre vik.",
@@ -117,7 +117,7 @@
     {
         "e1_text": "<b>Bureaucratie</b> [byråkrati], Fr., ämbetsmannavälde. Se Byråkrati.",
         "e2_text": "Statsdeparteme'nt, i flera länder benämning för vissa grenar af statsförvaltningen. Se Departement 1.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Läma,</b> slägtnamn, som plägar tilläggas alla de personer, som i Sverige under medeltiden förde två snedbjelkar i vapnet. Af dessa personer har dock endast en verkligen burit detta namn, nämligen ",
@@ -137,12 +137,12 @@
     {
         "e1_text": "<b>Björkäng,</b> kapellsocken i Vestergötland, Skaraborgs län, Vadsbo härad. Arealen (tillsammans med Fredsberg) 11,767 hekt. (23,837 tnld). 1,968 innev. (1875). Jämte Fredsberg och Bäck utgör B. ett ",
         "e2_text": "<b>Vårvik,</b> socken i Älfsborgs län, Vedbo härad.  11,770 har. 1,007 inv. (1920). Annex till Blomskog,  Karlstads stift, Nordmarks kontrakt.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Guanos.</b> Se Guanas.",
         "e2_text": "<b>Guayanazes</b>.   Se Guayanas.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Albano-bergen</b> (Lat. <i>Montes Albani,</i> Ital. <i>Monti Laziali</i>), en numera utslocknad vulkanisk bergsgrupp, belägen 3 mil s. ö. om Rom. Den är betäckt af den härligaste växtlighet och de ",
@@ -152,7 +152,7 @@
     {
         "e1_text": "<b>Brunke,</b> Johan, drottsete. Se Brunkow.",
         "e2_text": "<b>Bokelsohn,</b> Johan.   Se Johan af Leiden.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Stångån,</b> vattendrag i Östergötland och Småland, rinner upp i södra delen af Ydre härad i Östergötland, flyter i sydöstlig riktning in i Sevede härad af Småland, vänder vid Storebro åt n., passe",
@@ -167,7 +167,7 @@
     {
         "e1_text": "<b>Winebrennerianer</b> [oä'jnbren-], en af den amerikanske presten John Winebrenner på 1830-talet bildad baptistsekt. Se Baptist, sp. 1534.",
         "e2_text": "<b>Fliedner</b> [flid-], Theodor, grundläggare af den protestantiska diakonissverksamheten, f. 21 jan. 1800 i Nassau, d. 4 okt. 1864 i Kaiserswerth, blef 1822 pastor för den evangeliska församlingen i",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Trädgårdssångareslägtet,</b> <i>Curruca, zool.,</i> är ett underslägte, tillhörande sångareslägtet (<i>Sylvia</i>), familjen sångare (se d. o.), ordningen tättingar inom foglarnas klass. Hithörande",
@@ -237,7 +237,7 @@
     {
         "e1_text": "<b>Mehri,</b> en munart af det himjariska språket, hvilken talas på Arabiens södra kust. Jfr Himjarer.",
         "e2_text": "<b>Hakili</b> l. Ehkili, ett i södra Arabien taladt  semitiskt språk (jfr Sabeer).  Det studerades först  af Fresnel.  Se ”Journal asiatique”, 1838.        H. A.*",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Adrastea,</b> <i>myt.</i>, en ursprungligen asiatisk gudinna. Grekerna gåfvo detta namn en grekisk härledning, så att det fick betydelsen <i>den oundvikliga</i>, och tillade detsamma hämdens gudinn",
@@ -262,7 +262,7 @@
     {
         "e1_text": "<b>Tirazpol,</b> stad i ryska guvern. Cherson, på venstra stranden af Dnjestr och vid jernvägen till Kisjinev. Omkr. 17,000 innev.",
         "e2_text": "<b>Ust-Kamenogorsk,</b> stad i rysk-asiatiska prov. Semipalatinsk, 2 km. från högra stranden af Irtysj, vid den stora vägen mellan Semipalatinsk och Buchtarma. Omkr. 7,000 inv. En där 1719 anlagd grän",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Ziselslägtet,</b> <i>Spermophilus, zool.,</i> hör till familjen ekorrar och ordningen gnagare inom däggdjurens klass. Hithörande djur öfverensstämma närmast med murmeldjuren, men äro mindre och smä",
@@ -272,7 +272,7 @@
     {
         "e1_text": "<b>Åkervädd.</b> Se Trichera och Vädd.",
         "e2_text": "<b>Stafrum.</b> Se Vedmått.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Eka,</b> egendom i Lillkyrka socken af Upsala län, nära en vik af Mälaren. 7 1/8 mtl med underlydande. Areal 869 hekt. (1,760 tnld). Taxeringsvärde 190,900 kr. (1878). 1411-34 egdes E. af väpnaren ",
@@ -292,17 +292,17 @@
     {
         "e1_text": "<b>Hypodermiae</b> l. Hypodermii, Mångsporiga svampar, <i>bot.,</i> bilda en särskild ordning, den fjerde, bland <i>Carposporeae.</i> Alla Hypodermiae äro parasiter, hvilkas trådformiga, förgrenade ve",
         "e2_text": "<b>Hyalospongia,</b> <i>zool.</i> Se Svampdjur.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Proskenion</b> [hårdt k]. Se Proscenium.",
         "e2_text": "<b>Prismatisk,</b> <i>fys.</i>, formad som en prisma.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Österlen.</b> Se Oesterlen.",
         "e2_text": "<b>Odarslöf.</b> Se Västra Odarslöf.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Gerstner.</b> 1. Franz Joseph von G., böhmisk matematiker och ingeniör, f. 1756, blef 1779 ingeniör, 1784 adjunkt vid observatoriet i Prag samt 1789 professor i matematik i samma stad. På G:s initi",
@@ -342,12 +342,12 @@
     {
         "e1_text": "<b>Castro Giovanni</b> [-djå-], stad i den italienska prov. Caltanisetta (Sicilien). 14,148 innev. (1872). Citadell. Staden är byggd på ruinerna af det gamla <i>Enna,</i> hufvudsätet för Ceres' dyrkan",
         "e2_text": "<b>Cefalu</b> [t j e-], kretshufvudstad i italienska prov. Palermo (Sicilien). 13,273 inv. (1901). Vacker katedral. Biskopssäte. Marmorbrott, handel med olja och sardeller. C., som ligger vid hafvet, ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Tyrs,</b> thyrsus-staf. Se Thyrsos.",
         "e2_text": "<b>Thalsperren,</b> ty. Se Talsperren.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Phillips,</b> Thomas, engelsk målare, f. 1770, d. 1845, fick först lära sig glasmålning i Birmingham och kom 1790 till London med en rekommendation till West, som gaf honom i uppdrag att måla fönst",
@@ -387,7 +387,7 @@
     {
         "e1_text": "<b>Åberg,</b> Jon Olof, författare af historiska  berättelser för folket, född 1843, son af kyrkoherden  i Förlösa förs. nära Kalmar kontraktsprosten  O. Åberg, har sedan 1872, bosatt i  Stockholm sås",
         "e2_text": "<b>Åkerblom</b>, Fredrik, tidningsman, f. 13 juni 1839 i Falun, d. 24 sept. 1901 i Göteborg, var son till kyrkoherden i Folkärna, kontraktsprosten Johan Frans Å.  (f. 1806, d. 1886), bekant som förfat",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Regissör</b> [-sjiss-], Fr. <i>régisseur</i> (af <i>régir,</i> styra, förestå), vid teater anställd, sceniskt förfaren person, till hvars åligganden hufvudsakligen höra iscensättningen, bestämmande",
@@ -402,7 +402,7 @@
     {
         "e1_text": "<b>Kiragon</b> (af Grek. <i>cheir,</i> hand, och <i>agein,</i> föra, leda), ett instrument, som, till ledning för handen, nyttjas af blinda, då de skrifva.",
         "e2_text": "<b>Krustiska instrument</b> (grek. <i>krustikos</i>, slående, af <i>kraein</i>, slå), <i>mus</i>., slaginstrument. Se Instrument 1.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Armati,</b> Salvino, en florentinare, som i slutet af 13:de årh. skall hafva uppfunnit glasögonen. Denna uppfinning tillskrifves dock äfven en med A. samtidig italiensk munk, Alessandro di Spina.",
@@ -417,7 +417,7 @@
     {
         "e1_text": "<b>Lymfa</b> (Lat. <i>lympha</i>), <i>anat.,</i> den vätska, som hos menniskan och öfriga ryggradsdjur från kroppens olika delar genom särskilda kärl föres till blodströmmen. Den lymfa, som efter ett ",
         "e2_text": "<b>Lymfkörtlar</b>, <i>anat</i>., små, rundade kroppar, som ligga i lymf- och chyluskärlens banor och genom hvilka den saft (<i>lymfa</i>, se d. o.), som dessa innehålla, passerar på sin väg till de s",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Trani,</b> hamnstad uti ital. prov. Bari degli Puglie, vid Adriatiska hafvet och jernvägen Bologna-Otranto. 25,173 innev. (1881). Ärkebiskopssäte. Prestseminarium. Appellationsdomstol. Staden har ä",
@@ -442,7 +442,7 @@
     {
         "e1_text": "<b>Holm.</b> 1. Socken å Dal, Elfsborgs län, Nordals härad. Arealen 5,639 har. 2,515 innev. (1881). Annex till Ör, Karlstads stift, Södra Dals kontrakt. - 2. Socken i Hallands län, Halmstads härad. Ar",
         "e2_text": "<b>Brålanda</b>, socken i Älfsborgs län, Sundals härad. 6,693 har. 2,021 inv. (1903). Annex till Frändefors, Karlstads stift, Södra Dals kontrakt.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Daniel</b> (\"Gud är min domare\"), en af de s. k. större profeterna i Gamla testamentet. Han tillhörde Juda stam och var af förnäm (måhända kunglig) börd. Såsom ganska ung blef han (troligen år 607 ",
@@ -467,12 +467,12 @@
     {
         "e1_text": "<b>Rohlfs,</b> Gerhard, tysk Afrikaresande, f. 1831 i Vegesack nära Bremen, inträdde vid 17 års ålder i bremisk krigstjenst, deltog i dansk-tyska kriget 1848-50 och blef officer efter slaget vid Isted",
         "e2_text": "Vogel von Falckenstein [få- fann -stajn], Eduard, preussisk general, f. 5 jan. 1797 i Breslau, d. 6 april 1885 på slottet Dolzig, Lau-sitz, officer 1813, deltog i krigen 1813-15 och 1848 (mot Danmark)",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Pogodin</b> [pagadjin], Michail Petrovitj rysk författare, f. 1800 i Moskva, professor rysk historia vid universitetet derst., d. 1873, författade i sin ungdom halft sentimentala, halft realistiska",
         "e2_text": "<b>Tichonravov</b> [-våff], Nikolaj Savvitj, rysk litteraturhistoriker, f. 1832, d. 1893, blef 1859 professor i rysk litteraturhistoria vid Moskvas universitet, 1877 dess rektor och 1890 medlem af kej",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Sköldberg.</b> 1. Sven Erik S., gynekolog, född i Knista i Nerike d. 26 Nov. 1806, studerade i Upsala, der han aflade medicine licentiatexamen 1832 och promoverades till medicine doktor 1835. Han u",
@@ -482,7 +482,7 @@
     {
         "e1_text": "<b>Boulbon</b> [-bå'ng], Raousset de, grefve, fransk-amerikansk äfventyrare, f. omkr. 1810 i Avignon, förstörde sin förmögenhet i Paris, lät sedan värfva sig för fälttåget i Alger och begaf",
         "e2_text": "<b>Brantôme</b> [bratåm], Pierre de Bourdeilles de, fransk memoarförfattare, f. omkr. 1530, d. 1614, stred under hertig Frans af Guise med tappcrhet mot hugenotterna och sedan i Afrika mot morerna och",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Brikoll,</b> Fr. <i>bricole</i> (af Med.-Lat. <i>bricola,</i> kastpjes, livarmed man under belägringar slungade stenar mot murarna), <i>biljardt.,</i> bållens återstudsning. - Göra en brikollstöt, ",
@@ -502,7 +502,7 @@
     {
         "e1_text": "<b>Luftmotstånd.</b> Se Ballistik, Kulbana.",
         "e2_text": "<b>Komprimerad luft</b>, fys.   Se Flytande luft.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Konstnärsgillet</b> stiftades i Stockholm d. 31 Dec. 1845 i afsigt att bilda en föreningspunkt mellan de splittrade konstintressena och \"genom en fri utveckling af idéer tillfredsställa behofvet af",
@@ -512,7 +512,7 @@
     {
         "e1_text": "<b>Vigilantius,</b> presbyter i Barcelona, Spanien, i slutet af 4:de och början af 5:te årh., kraftig motståndare mot munkväsendet. Han var född i södra Gallien, företog redan som yngling vidsträckta ",
         "e2_text": "Vives, Juan Luis (Joannes Ludovi-c u s), spansk filosof, filolog och pedagogisk reformator, f. 1492 i Valencia, d. 6 maj 1540 i Bruges, studerade i sin födelsestad och, sedan 1509, i Paris, men flytta",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "Ljusdunklet uppmärksammades, ehuru måhända mera instinktmässigt, af den antika konsten, och dess fordringar iakttogos äfven, ehuru ej allmänt, af den italienska ungrenaissancens konstnärer. Sin utbild",
@@ -557,7 +557,7 @@
     {
         "e1_text": "<b>Multrå,</b> socken i Vesternorrlands län, Sollefteå tingslag. Areal 13,938 har. 1,179 innev. (1885). Annex till Sollefteå, Hernösands stift, Ångermanlands Vestra kontrakt.",
         "e2_text": "<b>Laxarby</b>, socken i Älfsborgs län, Vedbo härad. 21,213 har. 2,216 inv. (1910).  Annex till Edsleskog, Karlstads stift, Norra Dals kontrakt.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Malojaroslavez</b> [malajara-], stad i ryska guvernem. Kaluga, vid floden Lusja. Omkr. 5,000 innev. Der stod d. 24 Okt. 1812 en blodig strid emellan ryssarna och Napoleons »stora armé», hvilken sis",
@@ -567,12 +567,12 @@
     {
         "e1_text": "<b>Durham</b> [dörham], John George Lambton, earl of D., engelsk statsman, föddes i grefskapet Durham d. 12 April 1792 och började 1813 sin politiska bana som sitt grefskaps ombud i underhuset. Der gj",
         "e2_text": "<b>Sidmouth</b> [si'dmeth], viscount, adelstitel för Henry Addington, engelsk statsman, f. 30 maj 1757 i London, d. 15 febr. 1844 i Richmond park, invaldes 1783 i underhuset och gaf där verksamt stöd ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Vass-arv.</b> Se Narv.",
         "e2_text": "<b>Gyllingsläktet</b>.  Se Gyllingar.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Chusistan</b> (äfven Arabistan, fordom Susiana), persisk provins. Det gränsar i s. till Persiska viken, i ö. till Farsistan, i n. till Luristan och i v. till Irak-Arabi. Arealen (enligt Behm) 101,4",
@@ -587,7 +587,7 @@
     {
         "e1_text": "<b>Jernbruk,</b> den vanliga benämningen på sådana verk, der tackjern förädlas till smidigt jern och uträckes till stångjern eller manu-fakturjern. I forna tider, då det ansågs nödigt, att statsmakter",
         "e2_text": "Hammarsmedja, en förr brukad benämning på sådana stångjärnsmedjor, där järnets uträckning försiggick med vattenhammare. C. A. D.*",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Nobilitas,</b> Lat., adligt stånd, adel. Se Nobilis.",
@@ -597,7 +597,7 @@
     {
         "e1_text": "<b>Mattias Kettilmundsson</b> (Matts Kettilmundsson), rikshöfvitsman, hade en tid till sköldemärke två snedbjelkar, hvarför han oriktigt räknats till Lämaslägten (se Läma), men förde sedermera 3 rosor",
         "e2_text": "<b>Ture Jönsson</b>, rikshofmästare. Se Tre rosor 1.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Gjukungar,</b> <i>Nord. mytol.,</i> konung Gjukes barn, voro sönerna Gunnar, Högne och Guthorm samt dottern Gudrun, som äktade Sigurd Fåfnesbane. Sigurds svågrar Gunnar och Högne ingingo edligt bro",
@@ -632,7 +632,7 @@
     {
         "e1_text": "Ancile, en långrund, på båda sidorna urringad sköld,",
         "e2_text": "<b>Styckad sköld</b>, <i>her</i>., en sköld, som skäres i tvenne fält af en från öfre högra till nedre vänstra hörnet (i heraldisk bemärkelse) dragen skura (se d. o. och Sköld, pl. I, fig. 25).",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Mello.</b>   Se Melo.",
@@ -657,7 +657,7 @@
     {
         "e1_text": "<b>Braun,</b> Vilhelm August Detlof von, militär, skald, föddes på Brängesås i Böne pastorat och Elfsborgs län d. 8 Nov. 1813. Efter att hafva idkat skolstudier i Borås, Göteborg och Visby (der fadern",
         "e2_text": "<b>Steinbergh</b>, Antonius von, grefve, krigare, f. i Tyskland (födelseåret okändt), d. (antagligen) 1678, son till svenske residenten i Braunschweig under Trettioåriga kriget Jakob Steinberg, studer",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Heraldisk lilja.</b> Se Fransk lilja.",
@@ -672,7 +672,7 @@
     {
         "e1_text": "<b>Lithiasis</b> (Grek., af <i>lithos,</i> sten), <i>med.,</i> stenpassion. Se Blåsesten.",
         "e2_text": "LitokläS (af grek. li'lhos, sten, och kla'éin,krossa), geol., allmän äldre benämning på sprickbildningar i berggrunden.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Multiplikand.</b> Se nästa art. 1.",
@@ -682,12 +682,12 @@
     {
         "e1_text": "<b>Brandenburg,</b> först markgrefskap, sedan kurfurstendöme i Tyskland. Se följande art.",
         "e2_text": "<b>Hessen-Darmstadt,</b> tyskt storhertigdöme. Se Hessen 2.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Giurgevo</b> [djurdjevo], Rum. <i>Giurgiu</i> l. <i>Sjursja,</i> stad i Rumania vid Donau, midt emot bulgariska fästningen Rustsjuk. Omkr. 20,000 innev. Genom sitt läge vid Donau är G. en vigtig ha",
         "e2_text": "<b>Smederevo</b> (Semendria), hufvudstad i  serbiska länet (okrug) S. (1,277 kvkm., 144,829 inv.  1911), nära Moravas västra inlopp i Donau. S.  har en gammal af Georg Brankovitj anlagd  fästning och ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>New Ross</b> [nju råss], stad uti irländska prov. Leinster, på gränsen mellan grefskapen Wexford och Kilkenny, på Barrows venstra strand. 6,626 innev. (1881). Liflig handel.",
@@ -697,7 +697,7 @@
     {
         "e1_text": "<b>Fundamental-elektrometer</b> (se Fundament), <i>fys.,</i> en af den schweiziske fysikern De Luc konstruerad elektrometer, som dock icke funnit någon allmännare användning. K. L.",
         "e2_text": "<b>Wulfs elektrometer</b>, jys. Se Strängelektrometer. Suppl.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Ad interim,</b> Lat., tills vidare. Jfr Interim.",
@@ -722,7 +722,7 @@
     {
         "e1_text": "<b>Stickbult,</b> <i>sjöv.</i> Se Refva segel.",
         "e2_text": "<b>Bottenref,</b< <i>sjöv</i>.   Se Refva segel.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Collas-manér</b> [kålla-], <i>kopparstickarek.</i> Se Grafisk konst.",
@@ -742,22 +742,22 @@
     {
         "e1_text": "<b>Ponso</b> (Fr. <i>ponceau,</i> af Lat. <i>poenicus</i> l. <i>punicus,</i> purpurröd, egentl. kartaginensisk, fenicisk; purpurfärgen upptäcktes näml. af fenicerna), ett slags vallmoröd, bjertröd fär",
         "e2_text": "<b>Purpursnäcka</b>, <i>Pu'rpura</i>, <i>zool</i>., kallas sedan uräldsta tider en Medelhafssnäcka, af hvilken man erhöll det vackra, starkt violettröda färgämne, som fortfarande kallas purpur (lat. <",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Viggslägtet,</b> <i>Fuligula</i> (i inskränkt bemärkelse), <i>zool.,</i> är ett underslägte af dykandslägtet (se Dyk-änder). Det utmärker sig genom sin stora näbb, som är längre än tarsen. Näbbnage",
         "e2_text": "<b>Alförrädare</b>, <i>Fuligula dispar</i>, <i>zool.</i>, en till Norra Ishafvet hörande dyk-and, som ibland träffas söderut i sällskap med alfågeln (däraf namnet).",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Rått-tornet.</b> Se Bingen.",
         "e2_text": "<b>Tornering</b>.   Se Tornerspel.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Etampes</b> l. Estampes [etangp], stad i franska depart. Seine-et-Oise, vid floden E. Omkr. 7,850 innev. Gammalt torn, kalladt Guinette, som är en lemning af ett i 12:te årh. uppbygdt kungligt slot",
         "e2_text": "Ivry [ivri]. 1. I. 1. I.-la-Bataille [ta'j], by i franska dep. Eure, vid floden Eure, 34 km. s. ö. om Evreux. 1,023 inv. (1901). Där står en 17 m. hög obelisk, rest till minne af Henriks af Navarra (H",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Bibelsällskap.</b> Att bibeln - eller åtminstone delar af densamme - i den kristna kyrkans äldsta tid var tämligen spridd, synes framgå deraf, att under den diokletianska förföljelsen flere tusen e",
@@ -777,12 +777,12 @@
     {
         "e1_text": "<b>Parkano,</b> socken i Åbo och Björneborgs län, Ikalis domsaga och härad, Finland, utgör ett imperielt pastorat af 3:dje kl., Åbo ärkestift, Tyrvis kontrakt. Areal 984 qvkm. Befolkningen, finsktalan",
         "e2_text": "<b>Nastola</b>, socken i Tavastehus län, Hollola domsaga och härad, Finland, utgör ett imperiellt pastorat af 3:e kl., Borgå stift, Iittis kontrakt. Landareal 349 kvkm. 5,447 inv. (1910), finsktalande",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Trimeter</b> (Grek. <i>trimetros;</i> Lat. <i>senarius</i>). Se Jamb.",
         "e2_text": "<b>Lyssa</b>, grek. 1. Vattuskräck (se d. o.). - 2. <i>Zool</i>. Se Tunga.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Als,</b> Peder, dansk porträttmålare, född 1725 i Köpenhamn och död derstädes 1775. Han var lärjunge af den svenske målaren K. G. Pilo och den förste, som vann den danska konst-akademiens stora gul",
@@ -802,7 +802,7 @@
     {
         "e1_text": "<b>Korsett</b> (Fr. <i>corset,</i> diminut. af Fornfr. <i>cors,</i> Lat. <i>corpus,</i> kropp), lifstycke; snörlif.",
         "e2_text": "<b>Couvert</b> [kovär], fr. (af <i>couvrir</i>, betäcka). Se Kuvert.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Eger.</b> 1. (Tsjech. <i>Ohre,</i> Lat. <i>Agra</i>). Biflod till Elbe i Böhmen. Den rinner upp i Bajern, på Fichtelgebirge, och mynnar ut nedanför Theresienstadt, i Böhmen. Längd 380 kilom. (51 mi",
@@ -812,7 +812,7 @@
     {
         "e1_text": "<b>Try,</b> <i>bot.,</i> en folkspråket tillhörande benämning på de arter af slägtet <i>Lonicera,</i> som hafva upprätta stjelkar eller stammar och de parvis i bladvecken sittande, bärlika frukterna m",
         "e2_text": "<b>Diervilla</b> Juss. <i>bot.</i>, växtsläkte af fam. <i>Caprifoliaceæ.</i> Det skiljes från de närstående släktena (<i>Lonicera</i> m. fl.) därigenom, att frukten är en kapsel. Arterna, hvilka utgör",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Engel,</b> Gustav Eduard, tysk skriftställare och sånglärare, f. 1823, blef 1861 musikalisk korrespondent till \"Vossische zeitung\", 1863 sånglärare vid Neue akademie der tonkunst i Berlin samt 1874",
@@ -832,7 +832,7 @@
     {
         "e1_text": "<b>Marabu-storkslägtet,</b> <i>Leptoptilus, zool.,</i> hör till storkarnas familj (<i>Ciconiidae</i>) inom vadarnas ordning (<i>Grallatores</i>) och foglarnas klass. Näbben är rak, hög, med räta kante",
         "e2_text": "<b>Adjutantfågel,</b> <i>Ciconia</i> (<i>Leptoptilus</i>) <i>argala</i>, <i>zool</i>., den indiska kräf-storken, samsläkting till marabu.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Tambursöm</b> (af Fr. <i>tambour,</i> stickbåge), kedjesöm i stickbåge.",
@@ -847,12 +847,12 @@
     {
         "e1_text": "<b>Nutria-skinn.</b> Se Sumpbäfvern.",
         "e2_text": "<b>Hudfjäll,</b> <i>anat.</i> Se Hud.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Retepora.</b> Se Stelmatopoda.",
         "e2_text": "<b>Svärtuna</b>.   Se Svärta 1.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Illusorisk</b> (se Illusion), gäckande, bedräglig, inbillad, skenbar, fruktlös.",
@@ -877,12 +877,12 @@
     {
         "e1_text": "<b>Arendt,</b> Martin Friedrich, f. 1769 i Altona, anställdes 1797 vid botaniska trädgården i Köpenhamn, men förlorade snart denna befattning, sedan han, under en året derpå i offentligt uppdrag föret",
         "e2_text": "Lange, Johan Martin Christian, dansk botanist, f. 20 mars 1818, d. 8 apr. 1898, blef 1836 student, var 1846-48 lektor vid Sorö akademi, erhöll 1851 anställning som biblirt^karie vid botaniska trädgård",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Pohjanma</b> (se nästa art.) l. <sp>pojema,< pojaman,</sp> en af Chapman konstruerad typ af skärgårdsfartyg. Ett af dessa, bygdt 1775, var 100 fot långt och 20 fot bredt samt låg, fullt rustadt och",
         "e2_text": "<b>Galäräsping</b>, <i>skpsb</i>., smärre, lätt bestyckade fartyg, som i midten af 1700-talet byggdes för svenska skärgårdsflottan. De voro ung. 9 m. långa och 2,4 m. breda, hade 8 à 10 par åror samt ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Gosport,</b> befäst hamnstad i engelska grefskapet Hants (Hampshire), vid vestra sidan af Portsmouths hamn, förenad med nämnda stad genom en ångfärja. Omkr. 7,400 innev. Storartade bagerier och bry",
@@ -947,12 +947,12 @@
     {
         "e1_text": "<b>Vexelbruk,</b> <i>landtbr.,</i> kallar man det brukningssätt af den odlade jorden, då man besår fältet omvexlande med sädesslag, foderväxter och rotfrukter m. m. i en bestämd och systematisk följd ",
         "e2_text": "<b>Ensädesbruk</b> l. Enskiftesbruk, <i>landtbr</i>., kallas det sätt att bruka åkerjorden, hvilket utmärkes däraf, att odlaren, utan att någonsin träda sina fält, årligen besår dem med säd, hvilken s",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Arnaud</b> [arnå], Jacques Leroy de Saint-A., fransk marskalk, föddes 1796 i Bordeaux af borgerliga föräldrar vid namn Leroy. 1820 inträdde han i det kungliga gardet såsom exalterad rojalist, men b",
         "e2_text": "Sainte-Aulaire [sätålär], Louis Clair de Beaupoil de S., grefve, fransk diplomat, f. 9 april 1778, d. 12 nov. 1854, blef 1811 kammarherre hos Napoleon I och 1812 prefekt, men afgick vid kejsarens åter",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Hawkins</b> [håkins]. 1. Sir John H., engelsk sjöfarande, född 1532, eger den tvetydiga äran att hafva varit den förste engelsman, som med negrer, stulna på Guineakusten, dref slafhandel på Vestind",
@@ -962,12 +962,12 @@
     {
         "e1_text": "<b>Schirmer,</b> Adolf, tysk-österrikisk författare, född 1821 i Hamburg, egnade sig först åt teatern, men lefde sedan, mycket förmögen som han var, länge på resor, tills han 1854 bosatte sig i Wien. ",
         "e2_text": "<b>Schikaneder</b>, Emanuel Johann, tysk-österrikisk teaterförfattare, f. 1748 i Regensburg, d. 1812 i Wien, tillhörde först en vandrande skådespelartrupp, blef sedan själf teaterdirektör och besökte ",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Underdikning.</b> Se Täckdikning.",
         "e2_text": "<b>Täckbåge.</b> Se Täcke 1.",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Huzuler.</b> Se Hutsuler.",
@@ -977,7 +977,7 @@
     {
         "e1_text": "<b>Archelaos,</b> en lärjunge till filosofen Anaxagoras, mildrade den motsats, som hos denne fans mellan urämnet å ena sidan och formalprincipen å den andra. Den rörande kraften, motsvarande Anaxagora",
         "e2_text": "<b>Diogenes</b> (grek. <i>Διογένης</i>) från Apollonia, grekisk filosof i 5:e årh. f. Kr., tillhörde den joniska skolan, inom hvilken hans åsikt intager en förmedlande ställning mellan Anaxagoras' och",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Pyrosmalit</b> (af Grek. <i>pyr,</i> eld, och <i>osme,</i> lukt), <i>miner.,</i> ett vattenhaltigt monosilikat af jern- och manganoxidul, der en del syre ersättes af klor, kristalliserar i hexagona",
@@ -987,12 +987,12 @@
     {
         "e1_text": "<b>De-Geers-fors,</b> bruk i Godegårds socken, Finspånga läns härad, Östergötlands län, vid Godegårdsån. Det utgöres f. n. af ett jernvalsverk för fin- och grofvalsning, spik- och räckhammare samt såg",
         "e2_text": "<b>Sörfors.</b> 1. Liefabrik med två dubbelhammarverk, 4 fjäderhammare och sliperi för lietillverkning, 1 km. från Eriksfors hamnplats vid Ångermanälfven, Bjärtrå socken, Västernorrlands län, tillhöri",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Sherman</b> [sjär-], William Tecumseh, nord-amerikansk general, född i Lancaster, Ohio, d. 18 Febr. 1820, inträdde 1836 i krigsskolan i Westpoint, deltog i mejikanska kriget, men utgick ur armén 18",
         "e2_text": "<b>Merritt</b> [me'rit], Wesley, nordamerikansk general, f. 16 juni 1836 i New York, utexaminerades från West Point 1860, blef kavalleriofficer s. å. och utmärkte sig under inbördeskriget som befälhaf",
-        "valid_match": 1
+        "valid_match": 0
     },
     {
         "e1_text": "<b>Kabinettsmåleri.</b> Se Kabinettsstycke.",
