@@ -12,6 +12,7 @@ post processing på json-filer: cross references, ta bort artiklar som inte stå
 ta bort logistic regression, ha kvar mlp
 göra det lite snyggare allmänt
 gömma config-grejer så varje notebook gör en grej: en scraper med post processing, en för att träna modell, en segmenter med post processing
+Det är nåt fel med hur vi tar ut headword om det inte börjar med "<b>", ibland tar den inte ut första ordet, ibland jättemånga ord, ibland en del av första ordet.
 
 segmenter
 KLAR fixa när träningsdata skapas så att den inte tar hela first_letter_list utan bara den bokstaven som just nu är rätt
