@@ -29,3 +29,6 @@ köra igenom alla entries i wikidata
 fine-tuned kb-bert för att avgöra om wikidata-beskrivning är samma som den från nf
 
 visualisera koordinater från wikidata
+
+refaktorisering
+Funktioner som att öppna json fil med artiklar och skriva artiklar till json fil definieras i flera olika notebooks. Dessa kan definieras i en .py fil.
