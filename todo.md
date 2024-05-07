@@ -1,6 +1,6 @@
 # TODO
 
-Lägg till en datapunkt som säger hur det uppslaget klassificerades, om det var med bold, index eller NN
+KLAR Lägg till en datapunkt som säger hur det uppslaget klassificerades, om det var med bold, index eller NN
 Ta bort alla tags inom <> förutom <b> och </b>, <i> och </i>. Ofta är det <a ref ...> och så någonting där inuti. Helt ärligt, kan göra en regex som tar alla sånna tags och tar bort, de tjänar inget till.
 Ännu smartare första bokstav-grej, om det senaste uppslaget (eller en sekvens av uppslag) började på "Hi" så måste nästa vara "Hi" eller "Hj" osv, det kan aldrig gå "bakåt" åtminstone. Är det värt det? //Gör en post processing på detta, det är enklast
 Lägg in krav i requirements.txt fil 
@@ -12,6 +12,9 @@ post processing på json-filer: cross references, ta bort artiklar som inte stå
 ta bort logistic regression, ha kvar mlp
 göra det lite snyggare allmänt
 gömma config-grejer så varje notebook gör en grej: en scraper med post processing, en för att träna modell, en segmenter med post processing
+
+segmenter
+fixa när träningsdata skapas så att den inte tar hela first_letter_list utan bara den bokstaven som just nu är rätt
 
 linker
 gör nåt smartare/bättre än threshold, någon ml, Re-ranking, ta fem första från cosine similarity och sen kör fine-tunad binär klassifierare (BERT med sveparafras t.ex.) om de är bra eller inte
