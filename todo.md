@@ -8,7 +8,7 @@ Lägg in krav i requirements.txt fil
 scraper
 post processing på råtext: ta bort tags <hej>, [rättelse ...] i första upplagan
 ändra ordning på celler, skapa träningsdata, träna modell osv innan man kör segmenting
-post processing på json-filer: cross references, ta bort artiklar som inte står i rätt ordning, "st sa st" är fel ordning t.ex.
+(KANSKE KLAR) post processing på json-filer: cross references, ta bort artiklar som inte står i rätt ordning, "st sa st" är fel ordning t.ex.
 ta bort logistic regression, ha kvar mlp
 göra det lite snyggare allmänt
 gömma config-grejer så varje notebook gör en grej: en scraper med post processing, en för att träna modell, en segmenter med post processing
@@ -33,4 +33,4 @@ visualisera koordinater från wikidata
 Bra visualiseringar, t.ex: visualisera skillnader mellan e1 och e2, olika färger för e1 och e2, vilka platser finns i ena men inte andra.
 
 refaktorisering
-Funktioner som att öppna json fil med artiklar och skriva artiklar till json fil definieras i flera olika notebooks. Dessa kan definieras i en .py fil.
+KLAR Funktioner som att öppna json fil med artiklar och skriva artiklar till json fil definieras i flera olika notebooks. Dessa kan definieras i en .py fil.
