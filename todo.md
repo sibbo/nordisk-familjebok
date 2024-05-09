@@ -1,18 +1,13 @@
 # TODO
 
-KLAR Lägg till en datapunkt som säger hur det uppslaget klassificerades, om det var med bold, index eller NN
-Ta bort alla tags inom <> förutom <b> och </b>, <i> och </i>. Ofta är det <a ref ...> och så någonting där inuti. Helt ärligt, kan göra en regex som tar alla sånna tags och tar bort, de tjänar inget till.
-Ännu smartare första bokstav-grej, om det senaste uppslaget (eller en sekvens av uppslag) började på "Hi" så måste nästa vara "Hi" eller "Hj" osv, det kan aldrig gå "bakåt" åtminstone. Är det värt det? //Gör en post processing på detta, det är enklast
 Lägg in krav i requirements.txt fil 
 
 scraper
-post processing på råtext: ta bort tags <hej>, [rättelse ...] i första upplagan
-ändra ordning på celler, skapa träningsdata, träna modell osv innan man kör segmenting
 (KANSKE KLAR) post processing på json-filer: cross references, ta bort artiklar som inte står i rätt ordning, "st sa st" är fel ordning t.ex.
-ta bort logistic regression, ha kvar mlp
-göra det lite snyggare allmänt
-gömma config-grejer så varje notebook gör en grej: en scraper med post processing, en för att träna modell, en segmenter med post processing
-Ändra hur vi tar fram headword om det lades till av klassificeraren, den kan göra lite konstigt ibland.
+Ändra hur vi tar fram headword, generellt ta första ordet. Om vi mest bryr oss om platser så kan vi alltid ta första ordet och skita i resten. Om vi bryr oss om personer också får vi nog göra det här i en separat klassificerare, i samband med om vi tror att uppslaget är en person, plats etc och fixa headword utifrån det.
+Tar bara första ordet för tillfället. Ibland kan det vara bättre med fler ord för sökningen med headword i wikidata, t.ex. Aalborg (stad), Aalborg (Niels Mikkelsen, präst), Aalborg (amt), Aalborg (stift)
+om det lades till av klassificeraren, den kan göra lite konstigt ibland. //tror det är indexen som knasar sig snarare
+Prudentlig-Prud'hon etc kan matchas av index, inte bra. Kanske ett villkor: if len(line) < {typ 40?} and " Se" not in line, för vi vet att det inte finns några artiklar som är så korta som inte är korsreferenser.
 
 segmenter
 KLAR fixa när träningsdata skapas så att den inte tar hela first_letter_list utan bara den bokstaven som just nu är rätt
@@ -25,9 +20,8 @@ classifier för location?
 
 Sätter en väldigt hög threshold till att börja med, tills vi förbättrat linker
 
-kunna söka i wikidata, jämför embeddings med kb-sbert? och kunna få ut motsvarande svenska wikipedia-artikel
-köra igenom alla entries i wikidata
 fine-tuned kb-bert för att avgöra om wikidata-beskrivning är samma som den från nf
+Om vi får flera uppslag som matchar till samma qid, ska vi göra något då? eller bara låta det vara kvar av dem är kvar? 
 
 visualisera koordinater från wikidata
 Bra visualiseringar, t.ex: visualisera skillnader mellan e1 och e2, olika färger för e1 och e2, vilka platser finns i ena men inte andra.
