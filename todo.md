@@ -12,7 +12,7 @@ post processing på json-filer: cross references, ta bort artiklar som inte stå
 ta bort logistic regression, ha kvar mlp
 göra det lite snyggare allmänt
 gömma config-grejer så varje notebook gör en grej: en scraper med post processing, en för att träna modell, en segmenter med post processing
-Det är nåt fel med hur vi tar ut headword om det inte börjar med "<b>", ibland tar den inte ut första ordet, ibland jättemånga ord, ibland en del av första ordet.
+Ändra hur vi tar fram headword om det lades till av klassificeraren, den kan göra lite konstigt ibland.
 
 segmenter
 KLAR fixa när träningsdata skapas så att den inte tar hela first_letter_list utan bara den bokstaven som just nu är rätt
@@ -30,6 +30,7 @@ köra igenom alla entries i wikidata
 fine-tuned kb-bert för att avgöra om wikidata-beskrivning är samma som den från nf
 
 visualisera koordinater från wikidata
+Bra visualiseringar, t.ex: visualisera skillnader mellan e1 och e2, olika färger för e1 och e2, vilka platser finns i ena men inte andra.
 
 refaktorisering
 Funktioner som att öppna json fil med artiklar och skriva artiklar till json fil definieras i flera olika notebooks. Dessa kan definieras i en .py fil.
