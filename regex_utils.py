@@ -28,18 +28,31 @@ def words_in_line(line:str) -> list[str]:
     return re.findall(r"\p{L}+", line)
 
 def get_headword_from_text(line: str) -> str:
-    re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
+    line = re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
     search = re.search(r"^.{1,20}?[.,]", line)
     if search:
-        return search[0]
+        return remove_trailing_punctuation(search[0])
     else:
-        return words_in_line(line)[0]
+        return remove_trailing_punctuation(words_in_line(line)[0])
     
 def get_headword_from_index(line: str) -> str:
-    re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
+    line = re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
     if re.search(r"[.,]", line):
         search = re.search(r"^.{1,20}?[.,]", line)
         if search:
-            return search[0]
-    else:
-        return line
+            return remove_trailing_punctuation(search[0])
+    if len(line) > 20: ## LA TILL DETTA
+        return remove_trailing_punctuation(words_in_line(line)[0])
+    return remove_trailing_punctuation(line)
+
+def get_headword_no_closing_bold_tag(line: str) -> str:
+    line = line[3:]
+    closed = re.findall(r"^(.+?)<", line)
+    if closed:
+        text = closed[0]
+        if len(text) <= 20:
+            return remove_trailing_punctuation(text)
+    return remove_trailing_punctuation(words_in_line(line)[0])
+        
+def remove_trailing_punctuation(line: str) -> str:
+    return re.sub(r"[,.\s]*$", "", line)
