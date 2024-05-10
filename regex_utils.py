@@ -26,3 +26,14 @@ def category_word(line) -> int:
                     
 def words_in_line(line:str) -> list[str]:
     return re.findall(r"\p{L}+", line)
+
+def get_headword_from_text(line: str) -> str:
+    #remove [] and () etc
+    re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
+    
+    search = re.search(r"^.{1,20}?[.,]")
+
+    if search:
+        return search[0]
+    else:
+        return words_in_line(line)[0]
