@@ -10,12 +10,13 @@ Ta bort till första punctuation (, och .)
 om det lades till av klassificeraren, den kan göra lite konstigt ibland. //tror det är indexen som knasar sig snarare
 Prudentlig-Prud'hon etc kan matchas av index, inte bra. Kanske ett villkor: if (len(line) > {typ 50?} or " Se " in line)', för vi vet att det inte finns några artiklar som är så korta som inte är korsreferenser.
 Flytta så att funktionen som tar bort æ till ae och andra knasiga tecken ligger redan i scraper, ta också bort [' ^ siffror ; \[ : ]
-
+Bold tags, rätt bokstav eller inte
 
 segmenter
 KLAR fixa när träningsdata skapas så att den inte tar hela first_letter_list utan bara den bokstaven som just nu är rätt
 
 cross references
+Nåt error just nu?
 Antaganden: 
 Om texten till uppslaget är kortare än 60 tecken och innehåller " Se " så är det en cross reference. Det kan finnas fler som tekniskt sett är eller har med en reference men de är inte lika viktiga för oss
 uppslaget som en cross reference (som definerat ovan) refererar till finns alltid, och handlar alltid om samma sak

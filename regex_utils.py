@@ -28,12 +28,18 @@ def words_in_line(line:str) -> list[str]:
     return re.findall(r"\p{L}+", line)
 
 def get_headword_from_text(line: str) -> str:
-    #remove [] and () etc
     re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
-    
-    search = re.search(r"^.{1,20}?[.,]")
-
+    search = re.search(r"^.{1,20}?[.,]", line)
     if search:
         return search[0]
     else:
         return words_in_line(line)[0]
+    
+def get_headword_from_index(line: str) -> str:
+    re.sub(r"\[[^\]]*\]|\([^)]*\)", '', line)
+    if re.search(r"[.,]", line):
+        search = re.search(r"^.{1,20}?[.,]", line)
+        if search:
+            return search[0]
+    else:
+        return line

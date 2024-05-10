@@ -5,6 +5,7 @@ BASE_URL = "https://runeberg.org/nf"
 # base_url = "http://runeberg.org/download.pl?mode=ocrtext&work=nf"
 INF = 10**9
 MAX_ENTRY_LENGTH = 200
+ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖÜ"
 
 #the ranges for the urls, they have a slightly weird format
 
