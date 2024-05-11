@@ -16,7 +16,7 @@ class NeuralSearcher:
             collection_name=self.collection_name,
             query_vector=vector,
             query_filter=None,  # We don't want any filters for now
-            limit=1,  # 1 most closest results is enough
+            limit=5,  # 1 most closest results is enough
             score_threshold=threshold
         )
         # `search_result` contains found vector ids with similarity scores along with the stored payload

@@ -21,4 +21,14 @@ item = {
     "longitude": None, # longitude from wikidata linking
 }
 ```
-4.
+4. `postprocessing.ipynb`: performs post processing on the json files. Removes unordered entries and adds cross references.
+
+5. `sentence_embeddings.ipynb`: creates sentence embeddings for the entries in both editions. The notebook is written to be run in Google Colab, since creating this many embeddings requires a lot of computing power. 
+
+Instructions:
+
+    * Create a copy of the notebook in Google Colab
+    * Move your json files to a Google Drive folder
+    * Change the file path in the pd.read_json() functions
+    * Run the notebook
+    * Download the vectors (if the cell for downloading doesn't work, go into the file system on the left and download from there)

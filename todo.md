@@ -35,3 +35,6 @@ Bra visualiseringar, t.ex: visualisera skillnader mellan e1 och e2, olika färge
 
 refaktorisering
 KLAR Funktioner som att öppna json fil med artiklar och skriva artiklar till json fil definieras i flera olika notebooks. Dessa kan definieras i en .py fil.
+
+rapport
+https://www.ri.se/sites/default/files/2020-09/SLTC_2020.pdf
