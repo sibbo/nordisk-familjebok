@@ -148,6 +148,8 @@ edition2_first_letter_list = ['b', 'c']
 folder_edition1 = ENCYCLOPEDIAS_FOLDER + "first/"
 folder_edition2 = ENCYCLOPEDIAS_FOLDER + "second/"
 
+folder_evaluations = "evaluations/"
+
 def clean_html_markup(s: str, html_entities: list) -> str:
     res = s
     for pair in html_entities:
