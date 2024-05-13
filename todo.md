@@ -38,3 +38,42 @@ KLAR Funktioner som att öppna json fil med artiklar och skriva artiklar till js
 
 rapport
 https://www.ri.se/sites/default/files/2020-09/SLTC_2020.pdf
+
+
+möte 2024-05-13
+Testa segmenting med 10 (helst fler) exempel, ha med i rapporten, ta 10 slumpmässiga
+exempel sida 100, ta 10 st. Kolla på en kolumn, ta raden mitt på kolumnen och ta ut den motsvarande artikeln
+
+post processing efter segmenting: 
+
+skriv i rapport: vi tog bort entries som var ifrågasättbara, man kanske kan göra det på ett bättre sätt
+
+utvärdering av match: 1 till 2 och 2 till 1, kolla på accuracy. 1 till 2, hur många är korrekta
+De som är matchade, kolla vad de har för matchning, kolla matchning och få ut accuracy.
+Höj threshold
+
+utvärdering för qid match? extremt långt
+
+Ha en utvärdering för alla delar
+
+presentationen
+24 maj 13-17
+kanske ersättare för Pierre som kan lyssna på oss
+15 min, 10 min presentation och 5 min frågor
+engelska
+
+slides om att presentera, kolla på dem
+kom ihåg att det inte är en föreläsning
+tänk mycket innan
+tro inte att vi presenterar på, tänk igenom, winga inte
+vem pratar du till? man kanske inte vet vad nordisk familjebok är
+början och slutet
+resultat och utvärdering är viktigt
+punchy conclusion
+ta upp future work, vad vi vill förbättra
+
+set the problem
+describe the dataset
+method
+result with visualization
+future work
