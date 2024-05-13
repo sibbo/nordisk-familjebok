@@ -22,6 +22,8 @@ gör bara embeddings på ord som inte är cross references
 linker
 gör nåt smartare/bättre än threshold, någon ml, Re-ranking, ta fem första från cosine similarity och sen kör fine-tunad binär klassifierare (BERT med sveparafras t.ex.) om de är bra eller inte
 
+Utvärdering av threshold om vi bestämmer oss för att använda det, hur bra är 0.92 eller whatever? Accuracy, 
+
 classifier för location?
 
 
