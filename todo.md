@@ -55,3 +55,25 @@ Höj threshold
 utvärdering för qid match? extremt långt
 
 Ha en utvärdering för alla delar
+
+presentationen
+24 maj 13-17
+kanske ersättare för Pierre som kan lyssna på oss
+15 min, 10 min presentation och 5 min frågor
+engelska
+
+slides om att presentera, kolla på dem
+kom ihåg att det inte är en föreläsning
+tänk mycket innan
+tro inte att vi presenterar på, tänk igenom, winga inte
+vem pratar du till? man kanske inte vet vad nordisk familjebok är
+början och slutet
+resultat och utvärdering är viktigt
+punchy conclusion
+ta upp future work, vad vi vill förbättra
+
+set the problem
+describe the dataset
+method
+result with visualization
+future work
