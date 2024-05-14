@@ -1,5 +1,10 @@
 ENCYCLOPEDIAS_FOLDER = "encyclopedias/"
 ENCYCLOPEDIAS_JSONS_FOLDER = "encyclopedias_jsons/"
+EVALUATIONS_FOLDER = "evaluations/"
+SEGMENTER_STATS_FOLDER = f"{EVALUATIONS_FOLDER}segmenter_stats/"
+TEST_SEGMENTER_FOLDER = "evaluations/segmenter_jsons/"
+TEST_LOCATIONS_FOLDER = "evaluations/locations_jsons/"
+
 PAGE_NUMBER_STRING = "page_number="
 INDEX_STRING = "index="
 BASE_URL = "https://runeberg.org/nf"

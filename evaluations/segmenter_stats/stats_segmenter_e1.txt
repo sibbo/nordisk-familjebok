@@ -1,0 +1,7 @@
+Edition 1 stats
+------------
+Bold hits: 82575
+Index hits: 1816
+Classifier hits: 143
+------------
+Recall: 0.0

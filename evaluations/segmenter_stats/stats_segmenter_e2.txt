@@ -1,0 +1,7 @@
+Edition 2 stats
+------------
+Bold hits: 114329
+Index hits: 17255
+Classifier hits: 18756
+------------
+Recall: 0.0
