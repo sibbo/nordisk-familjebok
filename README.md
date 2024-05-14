@@ -4,7 +4,7 @@
 
 1. `scraper.ipynb`: Downloading (scraping) the first and second editions of the text, as well as some post processing.
 
-2. `mlp_classifier.ipynb`: Creates a logistic regression model for entry classification. First annotates training data and then trains the model.
+2. `entry_classifier.ipynb`: Creates a logistic regression model for entry classification. First annotates training data and then trains the model.
 
 3. `segmenter.ipynb`: Segments the text into headword and text, gives unique ids to all entries and creates initial json files.
 ```
