@@ -43,7 +43,7 @@ https://www.ri.se/sites/default/files/2020-09/SLTC_2020.pdf
 
 
 möte 2024-05-13
-Testa segmenting med 10 (helst fler) exempel, ha med i rapporten, ta 10 slumpmässiga
+KLAR Testa segmenting med 10 (helst fler) exempel, ha med i rapporten, ta 10 slumpmässiga
 exempel sida 100, ta 10 st. Kolla på en kolumn, ta raden mitt på kolumnen och ta ut den motsvarande artikeln
 
 post processing efter segmenting: 

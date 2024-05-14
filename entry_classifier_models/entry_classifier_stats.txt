@@ -1,0 +1,16 @@
+Confusion matrix for test data: 
+[[ 4850,   690],
+ [  623, 22271]]
+------------
+              precision    recall  f1-score   support
+
+ Not Article       0.89      0.88      0.88      5540
+     Article       0.97      0.97      0.97     22894
+
+    accuracy                           0.95     28434
+   macro avg       0.93      0.92      0.93     28434
+weighted avg       0.95      0.95      0.95     28434
+
+------------
+Micro F1: 0.9538228880917212
+Macro F1: 0.9260717632276911
