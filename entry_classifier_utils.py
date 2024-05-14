@@ -1,17 +1,5 @@
-import bz2
-import json
-import os
-import numpy as np
-import requests
-import sys
 import hashlib
-import joblib
-from sklearn.neural_network import MLPClassifier
 from sklearn.feature_extraction import DictVectorizer
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import f1_score, classification_report
-from sklearn.metrics import confusion_matrix
-from tqdm import tqdm
 from collections import Counter
 
 MAX_CHARS = 521
@@ -20,7 +8,7 @@ MAX_TRIGRAMS = 1031
 
 MAXES = [MAX_CHARS, MAX_BIGRAMS, MAX_TRIGRAMS]
 
-v = joblib.load('dict_vectorizer_model.pkl')
+# v = joblib.load('dict_vectorizer_model.pkl')
 
 MAX_SHIFT = []
 for i in range(len(MAXES)):
@@ -81,7 +69,7 @@ def build_freq_dict(sentence, MAXES=MAXES, MAX_SHIFT=MAX_SHIFT):
     fhcodes = map(calc_rel_freq, hngrams)
     return shift_keys(fhcodes, MAX_SHIFT)
 
-def transform_sentence(sentence: str):
+def transform_sentence(sentence: str, dict_vectorizer_model: DictVectorizer):
     vectorized_dict = build_freq_dict(sentence)
-    return v.transform([vectorized_dict])
+    return dict_vectorizer_model.transform([vectorized_dict])
 
