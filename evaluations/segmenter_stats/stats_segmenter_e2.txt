@@ -1,7 +1,8 @@
 Edition 2 stats
 ------------
+Total hits: 150340
 Bold hits: 114329
 Index hits: 17255
 Classifier hits: 18756
 ------------
-Recall: 0.0
+Recall: 0.94
