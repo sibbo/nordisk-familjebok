@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import uvicorn
 
 # That is the file where NeuralSearcher is stored
-from neural_searcher import NeuralSearcher
+from utils.neural_searcher import NeuralSearcher
 
 app = FastAPI()
 
