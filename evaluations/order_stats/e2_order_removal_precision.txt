@@ -1,1 +1,1 @@
-Order removal precision: 0.0
+Order removal precision: 0.34
