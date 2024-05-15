@@ -1,10 +1,3 @@
-ENCYCLOPEDIAS_FOLDER = "encyclopedias/"
-ENCYCLOPEDIAS_JSONS_FOLDER = "encyclopedias_jsons/"
-EVALUATIONS_FOLDER = "evaluations/"
-SEGMENTER_STATS_FOLDER = f"{EVALUATIONS_FOLDER}segmenter_stats/"
-TEST_SEGMENTER_FOLDER = "evaluations/segmenter_jsons/"
-TEST_LOCATIONS_FOLDER = "evaluations/locations_jsons/"
-
 PAGE_NUMBER_STRING = "page_number="
 INDEX_STRING = "index="
 BASE_URL = "https://runeberg.org/nf"
@@ -149,10 +142,6 @@ edition2_volumes = edition2_volume_start_end.keys()
 
 edition1_first_letter_list = ['a']
 edition2_first_letter_list = ['b', 'c']
-
-#folder to save the .txt files in
-folder_edition1 = ENCYCLOPEDIAS_FOLDER + "first/"
-folder_edition2 = ENCYCLOPEDIAS_FOLDER + "second/"
 
 def clean_html_markup(s: str, html_entities: list) -> str:
     res = s
