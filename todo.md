@@ -47,6 +47,7 @@ KLAR Testa segmenting med 10 (helst fler) exempel, ha med i rapporten, ta 10 slu
 exempel sida 100, ta 10 st. Kolla på en kolumn, ta raden mitt på kolumnen och ta ut den motsvarande artikeln
 
 post processing efter segmenting: 
+KLAR Utvärderingar
 
 skriv i rapport: vi tog bort entries som var ifrågasättbara, man kanske kan göra det på ett bättre sätt
 
