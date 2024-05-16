@@ -1,9 +1,10 @@
 [
     {
         "Nr_articles": 84534,
-        "Nr_cross_ref_linked": 13065,
+        "Nr_cross_ref_linked": 14096,
+        "Nr_cross_ref_total": 16582,
         "cross_ref_ratio": 0.19,
         "Estimated_cross_refs": 16061.460000000001,
-        "Recall": 0.8134378817367786
+        "Recall": 0.877628808339964
     }
 ]
