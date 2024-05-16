@@ -10,13 +10,13 @@ class NeuralSearcher:
         # initialize Qdrant client
         self.qdrant_client = QdrantClient(host='localhost', port=6333)
 
-    def vector_search(self, vector, threshold: float):
+    def vector_search(self, vector, threshold: float, search_limit: int):
         # Use `vector` for search for closest vectors in the collection
         search_result = self.qdrant_client.search(
             collection_name=self.collection_name,
             query_vector=vector,
             query_filter=None,  # We don't want any filters for now
-            limit=5,  # 1 most closest results is enough
+            limit=search_limit, 
             score_threshold=threshold
         )
         # `search_result` contains found vector ids with similarity scores along with the stored payload

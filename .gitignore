@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+sentence_embeddings
 vectors_e1.npy
 vectors_e2.npy
 vectors_e1_old.npy
