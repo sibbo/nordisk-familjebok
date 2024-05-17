@@ -24,7 +24,7 @@ class NeuralSearcher:
         payloads = [hit.payload for hit in search_result]
         return payloads
 
-    def string_search(self, text: str, threshold: float):
+    def string_search(self, text: str, threshold: float, search_limit: int):
         # Convert text query into vector
         vector = self.model.encode(text).tolist() 
-        return self.vector_search(vector, threshold=threshold) # This does not work
+        return self.vector_search(vector, threshold=threshold, search_limit=search_limit) # This does not work
