@@ -5,6 +5,8 @@
         "Nr_cross_ref_total": 42074,
         "cross_ref_ratio": 0.24,
         "Estimated_cross_refs": 36081.6,
-        "Recall": 0.8757095029045275
+        "Recall": 0.8757095029045275,
+        "Precision": 1,
+        "F1-score": 0.9337368089765451
     }
 ]
