@@ -1,0 +1,30 @@
+Match threshold: 0.5
+Accuracy score: 0.88
+------------
+Match threshold: 0.0
+Accuracy score: 0.88
+------------
+Match threshold: 0.05
+Accuracy score: 0.88
+------------
+Match threshold: 0.1
+Accuracy score: 0.88
+------------
+Match threshold: 0.15000000000000002
+Accuracy score: 0.88
+------------
+Match threshold: 0.2
+Accuracy score: 0.88
+------------
+Match threshold: 0.6000000000000001
+Accuracy score: 0.88
+------------
+Match threshold: 0.7000000000000001
+Accuracy score: 0.8
+------------
+Match threshold: 0.8
+Accuracy score: 0.6
+------------
+Match threshold: 0.65
+Accuracy score: 0.8
+------------

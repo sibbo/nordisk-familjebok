@@ -164,14 +164,15 @@
         "text": "<b>Ardeche</b> [ardäsch]. 1) Biflod till Rhône, rinner upp i Cevennerna, blir segelbar vid S:t Martin, genomflyter franska depart. Ardeche och mynnar, efter vid pass 10 mils lopp, ut i Rhône nära Pont",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q640263",
         "e2_key": "e2_6204_ba_766_14",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 44.38995,
+        "longitude": 4.402145,
         "correct_lat": 44.2644,
-        "correct_lon": 4.6478
+        "correct_lon": 4.6478,
+        "type": 1
     },
     {
         "headword": "Dalerne",
@@ -179,14 +180,15 @@
         "text": "<b>Dalerne,</b> landskap i Norge. Det består af de fjälltrakter, som ligga innanför Jäderens slättland, och bildar tillsammans med detta Jäderens og Dalernes fogderi i Stavanger amt. Jfr Jäderen. Y. N",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q901284",
         "e2_key": "e2_26118_be_621_8",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 58.6,
+        "longitude": 6.3,
         "correct_lat": 58.6,
-        "correct_lon": 6.3
+        "correct_lon": 6.3,
+        "type": 1
     },
     {
         "headword": "Åsenhöga",
@@ -194,14 +196,15 @@
         "text": "<b>Åsenhöga,</b> socken i Jönköpings län, Mo härad. Areal 12,960 har. 1,357 innev. (1892). Å. bildar med Källeryd ett konsistorielt pastorat, Vexiö stift, Vestbo kontrakt.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q10726910",
         "e2_key": "e2_148966_cm_605_22",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 57.40638889,
+        "longitude": 13.79722222,
         "correct_lat": 57.406389,
-        "correct_lon": 13.797222
+        "correct_lon": 13.797222,
+        "type": 1
     },
     {
         "headword": "Buxton",
@@ -209,14 +212,15 @@
         "text": "<b>Buxton</b> [bö'xtön], köping i engelska grefskapet Derbyshire, vid foten af Peakbergen. Omkr. 3,500 innev. Badort och helsokällor. I B. hölls Maria Stuart någon tid fången.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q971223",
         "e2_key": "",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 53.259,
+        "longitude": -1.911,
         "correct_lat": 53.259,
-        "correct_lon": -1.911
+        "correct_lon": -1.911,
+        "type": 1
     },
     {
         "headword": "Jekaterinenstadt",
@@ -239,14 +243,15 @@
         "text": "<b>Endelave,</b> ö i sydvestra delen af Kattegatt, utanför Horsensfjord, 11 km. (1 1/2 mil) lång och 1,8 km. (1/4 mil) bred. Omkr. 700 innev., hvilka idka jordbruk och sjöfart. V. E.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q926716",
         "e2_key": "e2_33878_bg_280_3",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 55.75,
+        "longitude": 10.3,
         "correct_lat": 55.75,
-        "correct_lon": 10.3
+        "correct_lon": 10.3,
+        "type": 1
     },
     {
         "headword": "Hereford",
@@ -254,14 +259,15 @@
         "text": "<b>Hereford</b> [herriförd]. 1. Grefskap i vestra England, på gränsen mot Wales. Areal 2,156 qvkm. 121,042 innev. (1881). H. är till största delen ett bördigt slättland, genomdraget af kullar och smär",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q737173",
         "e2_key": "e2_52950_bk_271_1",
         "e4_key": "",
         "cross_ref_key": "",
         "latitude": null,
         "longitude": null,
         "correct_lat": 52.056389,
-        "correct_lon": -2.716111
+        "correct_lon": -2.716111,
+        "type": 0
     },
     {
         "headword": "Väte",
@@ -269,14 +275,15 @@
         "text": "<b>Väte,</b> socken i Gotlands län, Södra häradet. Areal 3,402 har. 584 innev. (1892). Annex till Hejde, Visby stift, Medel-kontraktet.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q10718483",
         "e2_key": "e2_147164_cm_244_30",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 57.44888889,
+        "longitude": 18.36388889,
         "correct_lat": 57.448889,
-        "correct_lon": 18.363889
+        "correct_lon": 18.363889,
+        "type": 1
     },
     {
         "headword": "Falkenberg",
@@ -284,14 +291,15 @@
         "text": "<b>Falkenberg,</b> kontrakt i Göteborgs stift, Hallands län. 20,726 innev. (1880). Det omfattar följande pastorat: Morup, Falkenbergs stadsförsamling med Skrea, Vinberg med Stafsinge, Ljungby med Alfs",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": null,
         "e2_key": "e2_36687_bg_701_0",
         "e4_key": "",
         "cross_ref_key": "",
         "latitude": null,
         "longitude": null,
         "correct_lat": 56.916667,
-        "correct_lon": 12.5
+        "correct_lon": 12.5,
+        "type": 0
     },
     {
         "headword": "Pont-Saint-Esprit",
@@ -299,14 +307,15 @@
         "text": "<b>Pont-Saint-Esprit</b> [pång sängt espri], stad i franska depart. Gard, på högra sidan af Rhône, öfver hvilken der går en 918 m. lång stenbro, och vid Paris-Lyon-Medelhafs-banan. Omkr. 4,000 innev.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q243074",
         "e2_key": "e2_102726_ca_745_5",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 44.256388888889,
+        "longitude": 4.6483333333333,
         "correct_lat": 44.256389,
-        "correct_lon": 4.648333
+        "correct_lon": 4.648333,
+        "type": 1
     },
     {
         "headword": "Gottröra",
@@ -314,14 +323,15 @@
         "text": "<b>Gottröra,</b> socken i Upland, Stockholms län, Långhundra härad. Arealen 5,157 har. 882 innev. (1880). Annex till Närtuna, Upsala stift, Seminghundra kontrakt.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q21667220",
         "e2_key": "e2_46406_bj_34_2",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 59.7403,
+        "longitude": 18.158016666667,
         "correct_lat": 59.7403,
-        "correct_lon": 18.158017
+        "correct_lon": 18.158017,
+        "type": 1
     },
     {
         "headword": "Tangermünde",
@@ -329,14 +339,15 @@
         "text": "<b>Tangermünde,</b> stad i preuss. regeringsomr. Magdeburg (prov. Sachsen), vid Tanger-åns utlopp i Elbe. 5,850 innev. (1885). Gammal borg från medeltiden, der markgrefvar och kurfurstar af Brandenbur",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q498565",
         "e2_key": "e2_131210_ch_232_0",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 52.540833333333,
+        "longitude": 11.968888888889,
         "correct_lat": 52.540833,
-        "correct_lon": 11.968889
+        "correct_lon": 11.968889,
+        "type": 1
     },
     {
         "headword": "Dranske",
@@ -344,14 +355,15 @@
         "text": "<b>Dranske,</b> by på nordvestra kusten af ön Rügen, nära Arkona. Lifräddningsstation för skeppsbrutne.",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": null,
         "e2_key": "",
         "e4_key": "",
         "cross_ref_key": "",
         "latitude": null,
         "longitude": null,
         "correct_lat": 54.630833,
-        "correct_lon": 13.23
+        "correct_lon": 13.23,
+        "type": 0
     },
     {
         "headword": "Brokind",
@@ -359,14 +371,15 @@
         "text": "<b>Brokind,</b> fordom kalladt Bro, frälse säteri i Vårdnäs socken, Kinda härad, Östergötlands län. Det är naturskönt beläget på holmar vid Stångåns utlopp ur sjön Jernlunden, omkr. 25 kilom. (2 1/2 m",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q4973558",
         "e2_key": "e2_17397_bd_134_12",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 58.21083333,
+        "longitude": 15.66222222,
         "correct_lat": 58.216641,
-        "correct_lon": 15.680866
+        "correct_lon": 15.680866,
+        "type": 1
     },
     {
         "headword": "Memmingen",
@@ -374,13 +387,14 @@
         "text": "<b>Memmingen,</b> stad i bajerska regeringsområdet Schwaben-Neuburg, vid bajerska statsbanan, 5 km. ö. om floden Iller. 8,406 innev. (1880). Textilindustri, klockgjuteri och jerngjuteri. Stark humleod",
         "classifier_type": 0,
         "class": 0,
-        "qid": "0",
+        "qid": "Q14825",
         "e2_key": "",
         "e4_key": "",
         "cross_ref_key": "",
-        "latitude": null,
-        "longitude": null,
+        "latitude": 47.987777777778,
+        "longitude": 10.181111111111,
         "correct_lat": 47.987778,
-        "correct_lon": 10.181111
+        "correct_lon": 10.181111,
+        "type": 1
     }
 ]
