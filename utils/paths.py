@@ -11,6 +11,7 @@ ORDER_STATS_FOLDER = 'evaluations/stats/order_stats'
 CROSS_STATS_FOLDER = 'evaluations/stats/cross_stats'
 LINKER_STATS_FOLDER = 'evaluations/stats/linker_stats'
 LOCATIONS_STATS_FOLDER = 'evaluations/stats/location_stats'
+WIKI_STATS_FOLDER = 'evaluations/stats/wiki_stats'
 
 # Test data folders
 SEGMENTER_TEST_FOLDER = 'evaluations/test_data/segmenter_jsons'
@@ -18,6 +19,7 @@ ORDER_TEST_FOLDER = 'evaluations/test_data/order_jsons'
 CROSS_TEST_FOLDER = 'evaluations/test_data/cross_jsons'
 LINKER_TEST_FOLDER = 'evaluations/test_data/linker_jsons'
 LOCATIONS_TEST_FOLDER = 'evaluations/test_data/locations_jsons'
+WIKI_TEST_FOLDER = 'evaluations/test_data/wiki_jsons'
 
 # Sentence embeddings folder
 SENTENCE_EMBEDDINGS_FOLDER = 'sentence_embeddings'
