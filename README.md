@@ -24,7 +24,9 @@ item = {
 ```
 4. `postprocessing.ipynb`: performs post processing on the json files. Removes unordered entries and adds cross references.
 
-5. `sentence_embeddings.ipynb`: creates sentence embeddings for the entries in both editions. The notebook is written to be run in Google Colab, since creating this many embeddings requires a lot of computing power. 
+5. `location_classifier.ipynb`: classifies entries as locations and non-locations. Written to be run in Google Colab, since it requires a lot of computing power.
+
+6. `sentence_embeddings.ipynb`: creates sentence embeddings for the entries in both editions. Also written to be run in Google Colab, since creating embeddings requires a lot of computing power. 
 
 Instructions:
 
@@ -33,3 +35,5 @@ Instructions:
     * Change the file path in the pd.read_json() functions
     * Run the notebook
     * Download the vectors (if the cell for downloading doesn't work, go into the file system on the left and download from there)
+
+7. `qdrant.ipynb` and `linker.ipynb`: adds the json files (payload) and the corresponding sentence embeddings to a qdrant database, and then tries to link entries between editions.
