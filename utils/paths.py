@@ -5,6 +5,9 @@ E2_TXT_FOLDER = 'encyclopedias/e2'
 # # Encyclopedia json folder
 ENCYCLOPEDIAS_JSON_FOLDER = 'encyclopedias_jsons'
 
+# Locations plots folder
+LOCATION_PLOTS_FOLDER = 'evaluations/location_plots'
+
 # Statistics folders
 SEGMENTER_STATS_FOLDER = 'evaluations/stats/segmenter_stats'
 ORDER_STATS_FOLDER = 'evaluations/stats/order_stats'
