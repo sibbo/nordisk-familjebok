@@ -37,3 +37,7 @@ Instructions:
     * Download the vectors (if the cell for downloading doesn't work, go into the file system on the left and download from there)
 
 7. `qdrant.ipynb` and `linker.ipynb`: adds the json files (payload) and the corresponding sentence embeddings to a qdrant database, and then links entries between editions.
+
+8. `wiki_searcher.ipynb`:
+
+9. `visualization.ipynb`:
