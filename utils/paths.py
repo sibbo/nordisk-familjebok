@@ -21,7 +21,7 @@ SEGMENTER_TEST_FOLDER = 'evaluations/test_data/segmenter_jsons'
 ORDER_TEST_FOLDER = 'evaluations/test_data/order_jsons'
 CROSS_TEST_FOLDER = 'evaluations/test_data/cross_jsons'
 LINKER_TEST_FOLDER = 'evaluations/test_data/linker_jsons'
-LOCATIONS_TEST_FOLDER = 'evaluations/test_data/locations_jsons'
+LOCATIONS_TEST_FOLDER = 'evaluations/test_data/location_classifier_jsons'
 WIKI_TEST_FOLDER = 'evaluations/test_data/wiki_jsons'
 
 # Sentence embeddings folder
