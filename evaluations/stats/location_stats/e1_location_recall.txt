@@ -1,0 +1,9 @@
+------------
+E1 recall for location articles
+Recall: 1.0
+------------
+E1 recall for qid matching
+Recall: 0.08
+------------
+E1 recall for location coordinates
+Recall: 0.96

@@ -37,7 +37,7 @@
         "predicted_class": 0,
         "correct_qid": "",
         "predicted_qid": "",
-        "qid_match": 0,
+        "qid_match": 1,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
