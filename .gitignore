@@ -9,6 +9,7 @@ vectors_e1_old.npy
 vectors_e2_old.npy
 .DS_Store
 qdrant_storage
+evaluations/location_plots
 
 # C extensions
 *.so
