@@ -3,7 +3,7 @@ E1 recall for location articles
 Recall: 1.0
 ------------
 E1 recall for qid matching
-Recall: 0.08
+Recall: 0.52
 ------------
 E1 recall for location coordinates
-Recall: 0.96
+Recall: 0.64
