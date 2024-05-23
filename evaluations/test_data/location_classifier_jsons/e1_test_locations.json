@@ -5,12 +5,14 @@
         "headword": "Noricum, en romersk provins...",
         "entryid": "e1_52656_ak_707_2",
         "predicted_class": 1,
-        "correct_qid": 1,
-        "within_25km": 0,
+        "correct_qid": "Q131434",
+        "predicted_qid": "Q131434",
+        "qid_match": 1,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ac",
@@ -18,12 +20,14 @@
         "headword": "Daba, bergsby i Tibet...",
         "entryid": "e1_14097_ac_373_1",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
-        "correct_latitude": null,
-        "correct_longitude": null,
+        "correct_qid": "Q5207402",
+        "predicted_qid": "",
+        "qid_match": 0,
+        "correct_latitude": 31.22887, 
+        "correct_longitude": 79.92465,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aa",
@@ -31,12 +35,14 @@
         "headword": "Arvika, köping i södre...",
         "entryid": "e1_3994_aa_1161_0",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
-        "correct_latitude": null,
-        "correct_longitude": null,
-        "latitude": null,
-        "longitude": null
+        "correct_qid": "Q10418982",
+        "predicted_qid": "Q10418987",
+        "qid_match": 0,
+        "correct_latitude": 59.6578,
+        "correct_longitude": 12.5942,
+        "latitude": 59.65388889,
+        "longitude": 12.56916667,
+        "within_25km": 0
     },
     {
         "volume": "ai",
@@ -44,12 +50,14 @@
         "headword": "Linsell, socken i Jämtlands län...",
         "entryid": "e1_44176_ai_727_0",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
-        "correct_latitude": null,
-        "correct_longitude": null,
-        "latitude": null,
-        "longitude": null
+        "correct_qid": "Q10562918",
+        "predicted_qid": "Q21595763",
+        "qid_match": 0,
+        "correct_latitude": 62.158611,
+        "correct_longitude": 13.886667,
+        "latitude": 62.158611111111,
+        "longitude": 13.886666666667,
+        "within_25km": 0
     },
     {
         "volume": "ak",
@@ -57,12 +65,14 @@
         "headword": "Mount Vernon [...] ... Landställe",
         "entryid": "e1_50157_ak_214_3",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "Q731635",
+        "predicted_qid": "Q731635",
+        "qid_match": 1,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aa",
@@ -70,12 +80,14 @@
         "headword": "Agde [...], hamnstad i fran",
         "entryid": "e1_953_aa_257_0",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ag",
@@ -83,12 +95,14 @@
         "headword": "Iquique [...], hamnstad i Peru",
         "entryid": "e1_34218_ag_392_0",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ag",
@@ -96,12 +110,14 @@
         "headword": "Jesd (...), stad i sydöstra...",
         "entryid": "e1_35144_ag_603_3",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ak",
@@ -109,12 +125,14 @@
         "headword": "Montijo [...], stad i spanska prov",
         "entryid": "e1_49777_ak_161_4",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ao",
@@ -122,12 +140,14 @@
         "headword": "Svinbådan, grund utanför Höganäs",
         "entryid": "e1_72160_ao_563_0",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ac",
@@ -135,12 +155,14 @@
         "headword": "Dommel, flod i Nederländerna.",
         "entryid": "e1_16549_ac_685_3",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ar",
@@ -148,12 +170,14 @@
         "headword": "Åker. l. Socken i Jönköpings",
         "entryid": "e1_83513_ar_192_10",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ak",
@@ -161,12 +185,14 @@
         "headword": "Mineo, stad uti italienska ",
         "entryid": "e1_48990_ak_27_4",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "an",
@@ -174,12 +200,14 @@
         "headword": "Skatelof, socken i Kronoberhs län",
         "entryid": "e1_67533_an_624_1",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ak",
@@ -187,12 +215,14 @@
         "headword": "Mincio [...], biflod till Po i",
         "entryid": "e1_48976_ak_25_2",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ac",
@@ -200,12 +230,14 @@
         "headword": "Cochabamba [..]. l. Departement i rep",
         "entryid": "e1_12770_ac_229_2",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "al",
@@ -213,12 +245,14 @@
         "headword": "Paris-kommunen (Commune de paris)",
         "entryid": "e1_55791_al_401_8",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ag",
@@ -226,12 +260,14 @@
         "headword": "Inn, en af Donaus största bifloder",
         "entryid": "e1_33882_ag_348_3",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "al",
@@ -239,12 +275,14 @@
         "headword": "Palencia. l. Provins i spanska",
         "entryid": "e1_55204_al_302_1",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "am",
@@ -252,12 +290,14 @@
         "headword": "Qvarsebo (...) socken i Östergöt",
         "entryid": "e1_60114_am_291_1",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aa",
@@ -265,12 +305,14 @@
         "headword": "Alexandrinska biblioteket i Alexandria,",
         "entryid": "e1_1526_aa_413_1",
         "predicted_class": 0,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aa",
@@ -278,12 +320,14 @@
         "headword": "Assmannshausen, by vid Rhen",
         "entryid": "e1_4175_aa_1227_5",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aj",
@@ -291,12 +335,14 @@
         "headword": "Migulinskaja, kosakby (...) i Syd-Ryss...",
         "entryid": "e1_48792_aj_781_1",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "aa",
@@ -304,12 +350,14 @@
         "headword": "Aksu, stad i östra Turkistan",
         "entryid": "e1_1234_aa_329_4",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     },
     {
         "volume": "ar",
@@ -317,11 +365,13 @@
         "headword": "Åtvid, socken i Östergötlands län,",
         "entryid": "e1_83783_ar_241_11",
         "predicted_class": 1,
-        "correct_qid": 0,
-        "within_25km": 0,
+        "correct_qid": "",
+        "predicted_qid": "",
+        "qid_match": 0,
         "correct_latitude": null,
         "correct_longitude": null,
         "latitude": null,
-        "longitude": null
+        "longitude": null,
+        "within_25km": 0
     }
 ]
