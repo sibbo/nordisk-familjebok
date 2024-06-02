@@ -28,3 +28,6 @@ Accuracy score: 0.6
 Match threshold: 0.65
 Accuracy score: 0.8
 ------------
+Match threshold: 0.6
+Accuracy score: 0.84
+------------
