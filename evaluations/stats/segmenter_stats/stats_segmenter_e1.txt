@@ -6,3 +6,5 @@ Index hits: 1816
 Classifier hits: 143
 ------------
 Recall: 1.0
+Precision: 0.96
+(micro) F1-score: 

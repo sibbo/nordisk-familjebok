@@ -1,1 +1,5 @@
-Precision: 0.94
+First edition:
+    Precision: 0.96
+
+Second edition:
+    Precision: 0.94
