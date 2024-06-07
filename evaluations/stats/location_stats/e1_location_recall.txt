@@ -7,3 +7,12 @@ Recall: 0.52
 ------------
 E1 recall for location coordinates
 Recall: 0.64
+------------
+E1 precision for location articles
+Precision: 1.0
+------------
+E1 precision for qid matching
+Precision: 0.4
+------------
+E1 precision for location coordinates
+Precision: 0.76
