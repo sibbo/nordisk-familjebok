@@ -1,5 +1,11 @@
 # Linking editions of Nordisk Familjebok with Wikidata
 
+## Requirements
+
+See requirements.txt for a list of required python packages. PyTorch is required as well if you want to run the location classifier on your local machine instead of Colab or some other cloud service.
+
+## Usage
+
 0. Make sure you meet the requirements in `requirements.txt`.
 
 1. `scraper.ipynb`: Downloading (scraping) the first and second editions of the text, as well as some post processing.
@@ -22,7 +28,7 @@ item = {
     "longitude": None, # longitude from wikidata linking
 }
 ```
-4. `postprocessing.ipynb`: performs post processing on the json files. Removes unordered entries and adds cross references.
+4. `postprocessing.ipynb`: performs post processing on the json files (adds cross references).
 
 5. `location_classifier.ipynb`: classifies entries as locations and non-locations. Written to be run in Google Colab, since it requires a lot of computing power.
 
@@ -38,6 +44,6 @@ Instructions:
 
 7. `qdrant.ipynb` and `linker.ipynb`: adds the json files (payload) and the corresponding sentence embeddings to a qdrant database, and then links entries between editions.
 
-8. `wiki_searcher.ipynb`:
+8. `wiki_searcher.ipynb`: links location entries to Wikidata items. Can be converted to run in colab, but this does not speed up a whole lot, since querying Wikidata and Wikipedia takes up most of the execution time.
 
-9. `visualization.ipynb`:
+9. `visualization.ipynb`: creates plots with the 
