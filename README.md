@@ -1,8 +1,8 @@
-# Linking editions of Nordisk Familjebok with Wikidata
+# Matching and Linking Entries in Historical Swedish Encyclopedias
 
 ## Requirements
 
-See requirements.txt for a list of required python packages. PyTorch is required as well if you want to run the location classifier on your local machine instead of Colab or some other cloud service.
+See requirements.txt for a list of required python packages. PyTorch is required as well if you want to run the location classifier on your local machine instead of Colab or another cloud service.
 
 ## Usage
 
@@ -16,7 +16,7 @@ See requirements.txt for a list of required python packages. PyTorch is required
 ```
 item = {
     "headword": "Paris",
-    "entryid": "e{edition_nbr}_{entry_nbr}_{volume}_{page_nbr}_{page_entry_nbr}",
+    "entryid": "e{edition_nbr}_{entry_nbr}_{volume}_{page_nbr}_{page_entry_nbr}", # unique id for each entry
     "text": "<b>Paris</b> [franskt utt. pari], Frankrikes hufvudstad, näst London Europas folkrikaste stad ...",
     "classifier_type": 0, # 0 = bold, 1 = index, 2 = regression
     "class": 0, # 0 = default, 1 = location
@@ -32,18 +32,16 @@ item = {
 
 5. `location_classifier.ipynb`: classifies entries as locations and non-locations. Written to be run in Google Colab, since it requires a lot of computing power.
 
-6. `sentence_embeddings.ipynb`: creates sentence embeddings for the entries in both editions. Also written to be run in Google Colab, since creating embeddings requires a lot of computing power. 
+6. `sentence_embeddings.ipynb`: creates sentence embeddings for the entries in both editions. Also written to be run in Google Colab, since creating embeddings requires a lot of computing power. Instructions:
 
-Instructions:
-
-    * Create a copy of the notebook in Google Colab
-    * Move your json files to a Google Drive folder
-    * Change the file path in the pd.read_json() functions
-    * Run the notebook
-    * Download the vectors (if the cell for downloading doesn't work, go into the file system on the left and download from there)
+* Create a copy of the notebook in Google Colab
+* Move your json files to a Google Drive folder
+* Change the file path in the pd.read_json() functions
+* Run the notebook
+* Download the vectors (if the cell for downloading doesn't work, go into the file system on the left and download from there)
 
 7. `qdrant.ipynb` and `linker.ipynb`: adds the json files (payload) and the corresponding sentence embeddings to a qdrant database, and then links entries between editions.
 
 8. `wiki_searcher.ipynb`: links location entries to Wikidata items. Can be converted to run in colab, but this does not speed up a whole lot, since querying Wikidata and Wikipedia takes up most of the execution time.
 
-9. `visualization.ipynb`: creates plots with the 
+9. `visualization.ipynb`: creates plots with the coordinate location of entries
